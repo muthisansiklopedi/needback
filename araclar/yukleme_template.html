@@ -1,0 +1,133 @@
+<title>Mazgal Yükleme Listesi</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..900&family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: Mazgal wall band header; upload order list; one card per video with steps (left) and copy fields (right), stacking on phones */
+:root{
+  --bg:#eef0ec; --surface:#ffffff; --fg:#1d2420; --muted:#5b665f; --line:#d3d8d1;
+  --accent:#b5541c; --accent-soft:#f6e4d8; --steel:#2f3b35; --steel-fg:#e9ede8;
+  --reels:#2d5f8a; --reels-soft:#dde9f4; --ok:#2e7d4f; --ok-soft:#dcefe3;
+  --f-display:"Archivo","Arial Narrow",Arial,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141917; --surface:#1c2320; --fg:#e4e9e4; --muted:#9aa59e; --line:#2f3a35;
+  --accent:#e98447; --accent-soft:#3a2518; --steel:#0d1110; --steel-fg:#e4e9e4;
+  --reels:#7fb2df; --reels-soft:#1b2b3a; --ok:#6fcf97; --ok-soft:#173226; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141917; --surface:#1c2320; --fg:#e4e9e4; --muted:#9aa59e; --line:#2f3a35;
+  --accent:#e98447; --accent-soft:#3a2518; --steel:#0d1110; --steel-fg:#e4e9e4;
+  --reels:#7fb2df; --reels-soft:#1b2b3a; --ok:#6fcf97; --ok-soft:#173226; color-scheme:dark}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.55}
+.wrap{max-width:68rem;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.hero{background:var(--steel);color:var(--steel-fg);margin-top:calc(-1 * env(safe-area-inset-top,0px));padding-top:calc(env(safe-area-inset-top,0px) + 2.25rem);padding-bottom:1.75rem;position:relative}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:-14px;height:14px;background:linear-gradient(90deg,var(--steel) 0 62%,transparent 62% 100%);background-size:56px 14px}
+.sub{font-family:var(--f-mono);font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;opacity:.8;margin:0}
+.brand{font-family:var(--f-display);font-weight:900;font-stretch:75%;text-transform:uppercase;font-size:clamp(2.4rem,9vw,4.2rem);line-height:.95;margin:.5rem 0 0;text-wrap:balance}
+.brand span{color:var(--accent)}
+.lede{max-width:40rem;margin:.9rem 0 0;opacity:.92}
+main{padding-block:2.5rem 4rem}
+.label,.fl{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.label{margin:0 0 .75rem}
+.general{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:.75rem;margin-bottom:2.25rem}
+.gi{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:.8rem 1rem}
+.gi b{display:block;font-family:var(--f-display);font-stretch:85%;font-size:1rem}
+.gi span{color:var(--muted);font-size:.88rem}
+.toc{display:grid;gap:.4rem;margin-bottom:1rem}
+.ti{display:grid;grid-template-columns:7.5rem 5rem 1fr auto;gap:.75rem;align-items:center;padding:.65rem .9rem;background:var(--surface);border:1px solid var(--line);border-radius:6px;color:inherit;text-decoration:none}
+.ti:hover,.ti:focus-visible{border-color:var(--accent)}
+.tn{font-weight:600;min-width:0}
+.day{font-family:var(--f-mono);font-size:.78rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.kind{font-family:var(--f-mono);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;padding:.15rem .5rem;border-radius:3px;justify-self:start}
+.k-belgesel{background:var(--accent-soft);color:var(--accent)}
+.k-reels{background:var(--reels-soft);color:var(--reels)}
+.prog{font-family:var(--f-mono);font-size:.78rem;padding:.15rem .5rem;border-radius:3px;border:1px solid var(--line);font-variant-numeric:tabular-nums;justify-self:end}
+.prog.done{background:var(--ok-soft);color:var(--ok);border-color:transparent}
+.vid{border-top:3px solid var(--fg);margin-top:3rem;padding-top:1.1rem;scroll-margin-top:1rem}
+.vh .meta{display:flex;gap:.75rem;align-items:center;flex-wrap:wrap}
+.vh h2{font-family:var(--f-display);font-stretch:85%;font-weight:800;font-size:clamp(1.5rem,4.5vw,2.1rem);line-height:1.15;margin:.45rem 0 1.25rem;text-wrap:balance}
+.cols{display:grid;grid-template-columns:minmax(0,22rem) minmax(0,1fr);gap:1.75rem;align-items:start}
+@media (max-width:760px){.cols{grid-template-columns:minmax(0,1fr)}}
+.steps{list-style:none;margin:0;padding:0;display:grid;gap:.15rem;counter-reset:s}
+.steps li{counter-increment:s}
+.steps label{display:grid;grid-template-columns:1.25rem 1fr;gap:.6rem;padding:.5rem .5rem;border-radius:4px;cursor:pointer}
+.steps label:hover{background:var(--surface)}
+.steps input{margin:.2rem 0 0;accent-color:var(--accent);width:1rem;height:1rem}
+.steps input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.steps b{font-weight:600;display:block}
+.steps b::before{content:counter(s) ". ";font-family:var(--f-mono);font-weight:500;color:var(--muted);font-size:.8rem}
+.steps small{display:block;color:var(--muted);font-size:.84rem;margin-top:.1rem}
+.steps input:checked + span b{text-decoration:line-through;text-decoration-color:var(--muted);color:var(--muted)}
+.fields{display:grid;gap:1rem;min-width:0}
+.fh{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:.3rem}
+.cnt{font-family:var(--f-mono);font-size:.72rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.cnt.over{color:var(--accent)}
+.pw{position:relative}
+.pw pre{margin:0;padding:.75rem 1rem;padding-right:5.75rem;background:var(--surface);border:1px solid var(--line);border-radius:4px;white-space:pre-wrap;overflow-wrap:anywhere;font-family:var(--f-body);font-size:.9rem;line-height:1.5;max-height:20rem;overflow:auto}
+.cp{position:absolute;top:.45rem;right:.45rem;font-family:var(--f-mono);font-size:.72rem;padding:.3rem .6rem;border:1px solid var(--line);border-radius:3px;background:var(--bg);color:var(--fg);cursor:pointer}
+.cp:hover,.cp:focus-visible{border-color:var(--accent);color:var(--accent)}
+.alts{margin:-.25rem 0 0;display:grid;gap:.2rem;font-size:.88rem;color:var(--muted)}
+.thumb{margin:0;display:grid;gap:.3rem;background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:.75rem 1rem;font-size:.88rem;color:var(--muted)}
+.thumb strong{font-family:var(--f-display);font-stretch:80%;font-weight:900;font-size:1.5rem;color:var(--accent);text-transform:uppercase;line-height:1.1}
+.reset{margin-top:2.5rem;font-family:var(--f-mono);font-size:.78rem;background:none;border:1px solid var(--line);color:var(--muted);padding:.4rem .8rem;border-radius:3px;cursor:pointer}
+.reset:hover,.reset:focus-visible{border-color:var(--accent);color:var(--accent)}
+.note{font-size:.88rem;color:var(--muted);border-left:3px solid var(--accent);padding:.2rem 0 .2rem .9rem;margin:1rem 0 0}
+footer{border-top:1px solid var(--line);padding-block:1.5rem 2.5rem;color:var(--muted);font-size:.85rem}
+@media (max-width:560px){.ti{grid-template-columns:1fr auto}.ti .day{grid-column:1}.ti .kind{grid-column:2;justify-self:end}.ti .tn{grid-column:1}.ti .prog{grid-column:2}}
+</style>
+
+<div class="hero" id="ust"><div class="wrap">
+  <p class="sub">YouTube Studio · 10 video · 2 paket</p>
+  <h1 class="brand">Maz<span>gal</span> yükleme listesi</h1>
+  <p class="lede">Her video için YouTube Studio'ya yapıştırılacak alanlar ve adım adım ayarlar. İşaretlediğin adımlar bu tarayıcıda hatırlanır.</p>
+</div></div>
+
+<main class="wrap">
+  <p class="label">Kanal genelinde bir kez</p>
+  <div class="general">
+    <div class="gi"><b>Oynatma listeleri</b><span>"Siber Güvenlik", "Savunma Teknolojileri" ve "Mazgal Shorts" listelerini önceden oluştur.</span></div>
+    <div class="gi"><b>Varsayılan yükleme ayarları</b><span>Studio → Ayarlar → Varsayılan yükleme ayarları: Dil Türkçe, kategori Bilim ve Teknoloji, açıklamaya sabit kanal alt bilgisi.</span></div>
+    <div class="gi"><b>Telif kontrolü</b><span>Müzik ve arşiv görüntülerinin lisansını yüklemeden önce kontrol et. Kontroller tamamlanmadan yayın planlama.</span></div>
+    <div class="gi"><b>Bilgi doğrulama</b><span>Tarih ve rakamları her senaryonun kaynak listesinden kontrol et; özellikle KAAN, TB2 ihracatı ve saldırı zarar rakamları.</span></div>
+  </div>
+
+  <p class="label">Yükleme sırası</p>
+  <nav class="toc">%%TOC%%</nav>
+  <p class="note">Paket 2'yi Paket 1'in ertesi haftasına planla. Her Short'u, bağlandığı belgesel yayınlandıktan sonra "İlgili video" ayarıyla belgesele bağla.</p>
+
+  %%CARDS%%
+
+  <button type="button" class="reset" id="reset">Tüm işaretleri temizle</button>
+</main>
+<footer class="wrap">Mazgal · Yükleme listesi</footer>
+
+<script>
+(function(){
+  var KEY='mazgal-yukleme-v1', state={};
+  try{state=JSON.parse(localStorage.getItem(KEY)||'{}')||{}}catch(e){state={}}
+  function save(){try{localStorage.setItem(KEY,JSON.stringify(state))}catch(e){}}
+  var boxes=document.querySelectorAll('.steps input');
+  function refresh(){
+    document.querySelectorAll('.prog').forEach(function(p){
+      var v=p.dataset.v,n=+p.dataset.n,c=document.querySelectorAll('.steps input[data-v="'+v+'"]:checked').length;
+      p.textContent=c===n?'Tamam ✓':c+'/'+n; p.classList.toggle('done',c===n);
+    });
+  }
+  boxes.forEach(function(b){ if(state[b.id]) b.checked=true;
+    b.addEventListener('change',function(){ if(b.checked) state[b.id]=1; else delete state[b.id]; save(); refresh(); }); });
+  document.getElementById('reset').addEventListener('click',function(){
+    var btn=this;
+    if(btn.dataset.armed){ boxes.forEach(function(b){b.checked=false}); state={}; save(); refresh(); btn.textContent='Tüm işaretleri temizle'; delete btn.dataset.armed; }
+    else { btn.dataset.armed='1'; btn.textContent='Emin misin? Tekrar tıkla'; setTimeout(function(){ if(btn.dataset.armed){delete btn.dataset.armed; btn.textContent='Tüm işaretleri temizle';} },4000); }
+  });
+  document.addEventListener('click',function(e){var b=e.target.closest('.cp');if(!b)return;var pre=b.parentElement.querySelector('pre');
+    function ok(){b.textContent='Kopyalandı';setTimeout(function(){b.textContent='Kopyala'},1500)}
+    function sel(){var r=document.createRange();r.selectNodeContents(pre);var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='Seçildi, Ctrl+C'}
+    try{navigator.clipboard.writeText(pre.innerText).then(ok,sel)}catch(_){sel()}});
+  refresh();
+})();
+</script>
