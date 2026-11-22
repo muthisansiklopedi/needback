@@ -1,0 +1,61 @@
+1
+00:00:00,000 --> 00:00:02,950
+Bir ülkenin benzinini kesen saldırı,
+tek bir sızmış şifreyle başladı.
+
+2
+00:00:03,000 --> 00:00:06,807
+Her yıl milyonlarca hesap bilgisi sızıyor.
+
+3
+00:00:06,857 --> 00:00:11,950
+Senin e-postan ve şifren
+de bu listelerde olabilir.
+
+4
+00:00:12,000 --> 00:00:19,335
+Kontrol etmek kolay: haveibeenpwned.com
+sitesine gir, e-posta adresini
+
+5
+00:00:19,385 --> 00:00:20,258
+yaz.
+
+6
+00:00:20,308 --> 00:00:23,950
+Hangi sızıntılarda olduğunu gösterir.
+
+7
+00:00:24,000 --> 00:00:28,950
+Ayrıca iPhone'da Ayarlar, Parolalar
+bölümündeki güvenlik önerilerine;
+
+8
+00:00:29,000 --> 00:00:33,236
+Android'de Google Şifre
+Yöneticisi'ndeki şifre kontrolüne
+
+9
+00:00:33,286 --> 00:00:33,950
+bakabilirsin.
+
+10
+00:00:34,000 --> 00:00:37,150
+Sızdıysa: Şifreni hemen değiştir.
+
+11
+00:00:37,200 --> 00:00:41,150
+Aynı şifreyi başka yerde kullanma.
+
+12
+00:00:41,200 --> 00:00:45,950
+Ve mutlaka iki aşamalı doğrulamayı aç.
+
+13
+00:00:46,000 --> 00:00:48,405
+Bu videoyu kaydet.
+
+14
+00:00:48,455 --> 00:00:54,950
+Tek bir şifrenin dünyayı nasıl
+durdurduğunu belgeselde anlattım.

@@ -1,0 +1,685 @@
+1
+00:00:00,000 --> 00:00:03,043
+Bir şehrin ışıklarının
+kapanması için bomba gerekmiyor.
+
+2
+00:00:03,843 --> 00:00:07,322
+Bir hastanenin ameliyatları iptal
+etmesi için deprem gerekmiyor.
+
+3
+00:00:08,122 --> 00:00:12,035
+Dünyanın en büyük nakliye şirketinin
+durması için fırtına gerekmiyor.
+
+4
+00:00:12,835 --> 00:00:17,617
+Bazen tek gereken; doğru yere, doğru
+zamanda yerleştirilmiş birkaç satır kod.
+
+5
+00:00:18,417 --> 00:00:21,896
+Bu videoda dünyayı gerçekten durduran
+siber saldırıları anlatacağız.
+
+6
+00:00:21,896 --> 00:00:25,809
+Arkalarında genç hackerler değil,
+devlet istihbarat servisleri ve milyon
+
+7
+00:00:25,809 --> 00:00:27,548
+dolarlık suç örgütleri var.
+
+8
+00:00:28,348 --> 00:00:29,548
+Ben Mazgal.
+
+9
+00:00:29,548 --> 00:00:30,748
+Başlıyoruz.
+
+10
+00:00:34,548 --> 00:00:35,748
+Yıl 2010.
+
+11
+00:00:35,748 --> 00:00:39,226
+Belaruslu küçük bir güvenlik
+şirketi, İran'daki bir müşterisinin
+
+12
+00:00:39,226 --> 00:00:41,835
+bilgisayarlarında tuhaf bir
+zararlı yazılım buluyor.
+
+13
+00:00:42,635 --> 00:00:45,678
+İlk bakışta sıradan bir
+virüs gibi görünüyor.
+
+14
+00:00:45,678 --> 00:00:48,722
+Ama incelendikçe, araştırmacıların
+tüyleri diken diken oluyor.
+
+15
+00:00:49,522 --> 00:00:51,696
+Bu yazılım bilgisayarlardan veri çalmıyor.
+
+16
+00:00:51,696 --> 00:00:52,896
+Para istemiyor.
+
+17
+00:00:52,896 --> 00:00:54,200
+Hiçbir şey göstermiyor.
+
+18
+00:00:55,000 --> 00:00:59,783
+Tek bir hedefi var: Belirli bir marka
+ve modeldeki endüstriyel kontrol
+
+19
+00:00:59,783 --> 00:01:00,983
+cihazları.
+
+20
+00:01:00,983 --> 00:01:03,591
+Yani fabrikalardaki makineleri
+yöneten küçük bilgisayarlar.
+
+21
+00:01:04,391 --> 00:01:09,174
+Ve daha da özeli: Sadece belirli
+bir düzende, belirli hızlarda dönen
+
+22
+00:01:09,174 --> 00:01:10,478
+santrifüjlere bağlı olanlar.
+
+23
+00:01:11,278 --> 00:01:15,626
+Bu tarif, dünyada tek bir yere
+uyuyordu: İran'ın Natanz'daki uranyum
+
+24
+00:01:15,626 --> 00:01:16,826
+zenginleştirme tesisi.
+
+25
+00:01:17,626 --> 00:01:19,365
+Tesis internete bağlı değildi.
+
+26
+00:01:19,365 --> 00:01:21,539
+Peki virüs içeri nasıl girdi?
+
+27
+00:01:21,539 --> 00:01:23,713
+Büyük ihtimalle bir USB bellekle.
+
+28
+00:01:24,513 --> 00:01:27,557
+Stuxnet içeri girdiğinde santrifüjlerin
+hızını gizlice değiştirdi.
+
+29
+00:01:27,557 --> 00:01:32,774
+Ama en dâhice kısmı şu: Bunu yaparken
+kontrol odasındaki ekranlara her şey
+
+30
+00:01:32,774 --> 00:01:34,948
+normalmiş gibi eski kayıtları gösterdi.
+
+31
+00:01:35,748 --> 00:01:38,357
+Mühendisler, santrifüjlerin neden
+sürekli bozulduğunu anlayamadı.
+
+32
+00:01:38,357 --> 00:01:41,835
+Raporlara göre yaklaşık bin
+santrifüj devre dışı kaldı.
+
+33
+00:01:42,635 --> 00:01:46,548
+Stuxnet aynı anda dört farklı
+"sıfırıncı gün" açığı kullanıyordu.
+
+34
+00:01:46,548 --> 00:01:50,896
+Bu, o güne kadar görülmemiş
+bir kaynak ve bütçe demekti.
+
+35
+00:01:51,696 --> 00:01:53,435
+Hiçbir ülke resmen üstlenmedi.
+
+36
+00:01:53,435 --> 00:01:58,217
+Ama pek çok araştırmacı ve gazeteci,
+saldırının ABD ve İsrail'in ortak
+
+37
+00:01:58,217 --> 00:01:59,522
+operasyonu olduğunu yazdı.
+
+38
+00:02:00,322 --> 00:02:02,496
+Stuxnet ile bir çizgi aşıldı.
+
+39
+00:02:02,496 --> 00:02:07,278
+İlk kez bir kod parçası, fiziksel
+dünyada bir şeyi gerçekten kırdı.
+
+40
+00:02:11,078 --> 00:02:12,383
+23 Aralık 2015.
+
+41
+00:02:12,383 --> 00:02:14,122
+Ukrayna'nın batısında, kış ortasında.
+
+42
+00:02:14,922 --> 00:02:18,835
+Bir elektrik dağıtım merkezinde çalışan
+bir operatör, bilgisayarının faresinin
+
+43
+00:02:18,835 --> 00:02:21,009
+kendi kendine hareket ettiğini görüyor.
+
+44
+00:02:21,809 --> 00:02:24,852
+İmleç ekranda geziniyor,
+şalterleri tek tek kapatıyor.
+
+45
+00:02:24,852 --> 00:02:27,461
+Operatör izlemekten
+başka bir şey yapamıyor.
+
+46
+00:02:28,261 --> 00:02:31,739
+Saldırganlar sadece şalterleri kapatmakla
+kalmıyor; yedek güç sistemlerini
+
+47
+00:02:31,739 --> 00:02:34,783
+bozuyor, müşteri hizmetleri hatlarını
+sahte aramalarla kilitliyor.
+
+48
+00:02:35,583 --> 00:02:39,496
+Yaklaşık 230 bin kişi kışın ortasında
+saatlerce elektriksiz kalıyor.
+
+49
+00:02:40,296 --> 00:02:43,774
+Bu, siber saldırıyla bir elektrik
+şebekesinin çökertildiği, kamuoyunca
+
+50
+00:02:43,774 --> 00:02:46,383
+doğrulanmış ilk örnek
+olarak tarihe geçiyor.
+
+51
+00:02:47,183 --> 00:02:50,661
+Saldırı, güvenlik araştırmacılarının
+"Sandworm" adını verdiği bir gruba
+
+52
+00:02:50,661 --> 00:02:51,861
+bağlandı.
+
+53
+00:02:51,861 --> 00:02:56,209
+ABD ve İngiltere bu grubu Rus askeri
+istihbaratı ile ilişkilendirdi.
+
+54
+00:02:57,009 --> 00:02:59,183
+Ve Sandworm'ün adını tekrar duyacağız.
+
+55
+00:03:02,983 --> 00:03:04,287
+12 Mayıs 2017.
+
+56
+00:03:04,287 --> 00:03:05,591
+Bir cuma günü.
+
+57
+00:03:06,391 --> 00:03:09,870
+Dünyanın dört bir yanında bilgisayar
+ekranları kırmızıya dönüyor.
+
+58
+00:03:09,870 --> 00:03:11,609
+Mesaj net: "Dosyalarınız şifrelendi.
+
+59
+00:03:11,609 --> 00:03:14,652
+Geri almak istiyorsanız
+Bitcoin ile ödeme yapın."
+
+60
+00:03:15,452 --> 00:03:17,626
+Bu fidye yazılımın adı WannaCry.
+
+61
+00:03:17,626 --> 00:03:21,974
+Birkaç gün içinde 150 ülkede, 200
+binden fazla bilgisayara bulaşıyor.
+
+62
+00:03:22,774 --> 00:03:26,252
+En ağır darbeyi İngiltere'nin
+kamu sağlık sistemi alıyor.
+
+63
+00:03:26,252 --> 00:03:28,861
+Ameliyatlar erteleniyor, ambulanslar
+başka hastanelere yönlendiriliyor.
+
+64
+00:03:29,661 --> 00:03:32,704
+Peki WannaCry bu kadar
+hızlı nasıl yayıldı?
+
+65
+00:03:33,504 --> 00:03:38,722
+Kullandığı açık, aslında ABD Ulusal
+Güvenlik Ajansı NSA'in elinde olan bir hack
+
+66
+00:03:38,722 --> 00:03:40,026
+aracından geliyordu: EternalBlue.
+
+67
+00:03:40,826 --> 00:03:45,174
+Bu araç, "Shadow Brokers" adlı bir
+grup tarafından çalınıp internete
+
+68
+00:03:45,174 --> 00:03:46,374
+sızdırılmıştı.
+
+69
+00:03:46,374 --> 00:03:49,852
+Yani bir devletin siber silahı,
+suçluların eline geçmişti.
+
+70
+00:03:50,652 --> 00:03:55,000
+Ve hikâyenin en ilginç kısmı: WannaCry'ı
+durduran, İngiltere'de yaşayan 22
+
+71
+00:03:55,000 --> 00:03:58,043
+yaşındaki bir güvenlik
+araştırmacısı oldu: Marcus Hutchins.
+
+72
+00:03:58,843 --> 00:04:03,626
+Hutchins, virüsün kodunda kayıtlı
+olmayan garip bir alan adı fark etti.
+
+73
+00:04:03,626 --> 00:04:07,974
+Merak edip o alan adını
+yaklaşık 10 dolara satın aldı.
+
+74
+00:04:08,774 --> 00:04:13,557
+Meğer bu adres, virüsün "acil durdurma
+düğmesiymiş." Alan adı aktif olunca,
+
+75
+00:04:13,557 --> 00:04:14,861
+WannaCry yayılmayı bıraktı.
+
+76
+00:04:15,661 --> 00:04:20,443
+ABD ve İngiltere saldırıyı daha sonra
+Kuzey Kore'ye bağlı Lazarus grubuna
+
+77
+00:04:20,443 --> 00:04:21,643
+bağladı.
+
+78
+00:04:22,443 --> 00:04:26,357
+Dünyayı durduran saldırı, 10
+dolarlık bir alan adıyla durdu.
+
+79
+00:04:30,157 --> 00:04:31,357
+Haziran 2017.
+
+80
+00:04:31,357 --> 00:04:33,530
+WannaCry'dan sadece bir ay sonra.
+
+81
+00:04:34,330 --> 00:04:37,809
+Ukrayna'da şirketlerin neredeyse hepsinin
+kullandığı bir muhasebe yazılımı,
+
+82
+00:04:37,809 --> 00:04:39,548
+sıradan bir güncelleme yayınlıyor.
+
+83
+00:04:40,348 --> 00:04:42,957
+Ama güncellemenin içine
+bir saldırgan yerleşmiş.
+
+84
+00:04:42,957 --> 00:04:44,157
+Adı: NotPetya.
+
+85
+00:04:44,957 --> 00:04:47,130
+NotPetya fidye yazılımı gibi görünüyordu.
+
+86
+00:04:47,130 --> 00:04:51,478
+Ama aslında fidye ödense bile
+dosyaları geri getirmek mümkün değildi.
+
+87
+00:04:51,478 --> 00:04:53,652
+Amacı para değil, yok etmekti.
+
+88
+00:04:54,452 --> 00:04:57,496
+Ukrayna'yı hedef alan bu
+saldırı, sınırları tanımadı.
+
+89
+00:04:57,496 --> 00:05:02,278
+Dünyanın en büyük konteyner taşımacılık
+şirketi Maersk, ilaç devi Merck, kargo
+
+90
+00:05:02,278 --> 00:05:04,887
+şirketi TNT ve daha birçoğu çöktü.
+
+91
+00:05:05,687 --> 00:05:09,165
+Maersk'in tüm küresel ağı
+birkaç saat içinde kapandı.
+
+92
+00:05:09,165 --> 00:05:11,339
+Limanlarda gemiler ve kamyonlar bekledi.
+
+93
+00:05:12,139 --> 00:05:16,052
+Şirketi kurtaran ise bir tesadüftü:
+Gana'daki ofislerinden birinde, saldırı
+
+94
+00:05:16,052 --> 00:05:17,791
+sırasında elektrik kesintisi yaşanmış.
+
+95
+00:05:17,791 --> 00:05:21,704
+Bu yüzden oradaki bir sunucu
+virüs bulaşmadan kapalı kalmış.
+
+96
+00:05:22,504 --> 00:05:27,287
+Bu sunucu, dünyanın öbür ucuna uçakla
+taşınarak tüm sistemin yeniden kurulmasını
+
+97
+00:05:27,287 --> 00:05:28,487
+sağladı.
+
+98
+00:05:29,287 --> 00:05:33,635
+ABD hükümetinin tahminine göre NotPetya'nın
+toplam zararı yaklaşık 10 milyar
+
+99
+00:05:33,635 --> 00:05:34,835
+dolar.
+
+100
+00:05:34,835 --> 00:05:38,313
+Tarihin en pahalı siber
+saldırısı olarak kabul ediliyor.
+
+101
+00:05:39,113 --> 00:05:40,852
+Ve sorumlu tutulan grup…
+
+102
+00:05:40,852 --> 00:05:42,052
+yine Sandworm.
+
+103
+00:05:45,852 --> 00:05:47,052
+Aralık 2020.
+
+104
+00:05:47,052 --> 00:05:50,530
+ABD'li siber güvenlik şirketi FireEye,
+kendisinin hacklendiğini açıklıyor.
+
+105
+00:05:51,330 --> 00:05:54,809
+Soruşturma ilerledikçe ortaya
+çıkan tablo çok daha büyük.
+
+106
+00:05:55,609 --> 00:05:59,522
+Saldırganlar, SolarWinds adlı bir şirketin
+ağ yönetim yazılımının güncellemesine
+
+107
+00:05:59,522 --> 00:06:00,722
+sızmış.
+
+108
+00:06:01,522 --> 00:06:04,565
+Bu güncelleme yaklaşık
+18 bin müşteriye ulaşmış.
+
+109
+00:06:04,565 --> 00:06:08,913
+Aralarında ABD hükümet kurumları ve
+dünyanın en büyük şirketleri var.
+
+110
+00:06:09,713 --> 00:06:14,061
+Saldırganlar, aylarca hiç fark
+edilmeden bu ağların içinde dolaşmış ve
+
+111
+00:06:14,061 --> 00:06:15,800
+seçtikleri hedeflerde casusluk yapmış.
+
+112
+00:06:16,600 --> 00:06:19,643
+ABD, saldırıyı Rusya'nın dış
+istihbarat servisine bağladı.
+
+113
+00:06:20,443 --> 00:06:24,791
+SolarWinds'in dersi şuydu: Güvendiğin
+yazılımın güncellemesi bile bir truva atı
+
+114
+00:06:24,791 --> 00:06:25,991
+olabilir.
+
+115
+00:06:25,991 --> 00:06:30,774
+Buna "tedarik zinciri saldırısı" deniyor
+ve bugün siber güvenliğin en büyük
+
+116
+00:06:30,774 --> 00:06:31,974
+korkularından biri.
+
+117
+00:06:35,774 --> 00:06:36,974
+Mayıs 2021.
+
+118
+00:06:36,974 --> 00:06:41,757
+ABD'nin doğu kıyısına akaryakıt taşıyan
+en büyük boru hattı, Colonial Pipeline,
+
+119
+00:06:41,757 --> 00:06:42,957
+aniden kapanıyor.
+
+120
+00:06:43,757 --> 00:06:46,800
+Sebep: DarkSide adlı bir
+fidye yazılımı çetesi.
+
+121
+00:06:47,600 --> 00:06:48,800
+Panik başlıyor.
+
+122
+00:06:48,800 --> 00:06:52,713
+İnsanlar benzin istasyonlarına akın
+ediyor, birçok istasyonda yakıt bitiyor.
+
+123
+00:06:53,513 --> 00:06:57,861
+Şirket, fidye olarak yaklaşık 4,4
+milyon dolar değerinde Bitcoin ödüyor.
+
+124
+00:06:58,661 --> 00:07:00,835
+Peki saldırganlar içeri nasıl girdi?
+
+125
+00:07:00,835 --> 00:07:04,748
+Soruşturmaya göre artık kullanılmayan
+ama kapatılmamış bir VPN hesabının
+
+126
+00:07:04,748 --> 00:07:05,948
+şifresiyle.
+
+127
+00:07:05,948 --> 00:07:08,991
+Ve bu hesapta iki aşamalı doğrulama yoktu.
+
+128
+00:07:09,791 --> 00:07:14,574
+İşin güzel tarafı: ABD Adalet Bakanlığı,
+ödenen fidyenin büyük bir kısmını
+
+129
+00:07:14,574 --> 00:07:16,748
+Bitcoin izini sürerek geri aldı.
+
+130
+00:07:17,548 --> 00:07:21,461
+Bir ülkenin akaryakıtını durduran
+şey, unutulmuş tek bir şifreydi.
+
+131
+00:07:25,261 --> 00:07:27,435
+Bu altı saldırıdan ne öğreniyoruz?
+
+132
+00:07:28,235 --> 00:07:31,278
+Birincisi: Siber savaş
+artık bir senaryo değil.
+
+133
+00:07:31,278 --> 00:07:35,191
+Elektrik, su, sağlık, akaryakıt; hepsi
+bilgisayarlarla yönetiliyor ve hepsi
+
+134
+00:07:35,191 --> 00:07:36,391
+hedef olabiliyor.
+
+135
+00:07:37,191 --> 00:07:41,974
+İkincisi: En güçlü saldırılar bile
+çoğu zaman küçük bir kapıdan giriyor.
+
+136
+00:07:41,974 --> 00:07:45,452
+Bir USB bellek, bir güncelleme,
+unutulmuş bir şifre.
+
+137
+00:07:46,252 --> 00:07:50,165
+Üçüncüsü: Devletlerin geliştirdiği
+siber silahlar, bir gün suçluların eline
+
+138
+00:07:50,165 --> 00:07:51,365
+geçebiliyor.
+
+139
+00:07:52,165 --> 00:07:56,948
+Ve son bir sürpriz: Temmuz 2024'te
+dünyada yaklaşık 8,5 milyon Windows
+
+140
+00:07:56,948 --> 00:07:59,557
+bilgisayar aynı anda mavi ekran verdi.
+
+141
+00:07:59,557 --> 00:08:01,296
+Havalimanları, bankalar, hastaneler durdu.
+
+142
+00:08:02,096 --> 00:08:03,835
+Bu bir saldırı değildi.
+
+143
+00:08:03,835 --> 00:08:06,878
+Bir güvenlik şirketinin, CrowdStrike'ın,
+hatalı bir güncellemesiydi.
+
+144
+00:08:07,678 --> 00:08:11,157
+Yani dünyayı durdurmak için
+kötü niyet bile gerekmiyor.
+
+145
+00:08:11,157 --> 00:08:14,635
+Ne kadar bağlı bir dünyada
+yaşadığımızı unutmamak gerekiyor.
+
+146
+00:08:15,435 --> 00:08:18,478
+Sence bu listedeki en
+korkutucu saldırı hangisiydi?
+
+147
+00:08:18,478 --> 00:08:19,678
+Yorumlara yaz.
+
+148
+00:08:20,478 --> 00:08:24,826
+Bir sonraki videoda gökyüzüne dönüyoruz:
+Savaş uçaklarının geleceği ve KAAN.
+
+149
+00:08:25,626 --> 00:08:26,930
+Abone olmayı unutma.
+
+150
+00:08:26,930 --> 00:08:28,235
+Ben Mazgal, görüşürüz.

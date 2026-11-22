@@ -1,0 +1,625 @@
+1
+00:00:00,000 --> 00:00:04,348
+Bir savaş uçağı geliştirmek, bir
+ülkenin yapabileceği en zor mühendislik
+
+2
+00:00:04,348 --> 00:00:05,548
+işlerinden biridir.
+
+3
+00:00:06,348 --> 00:00:11,565
+Dünyada bunu baştan sona yapabilen ülke
+sayısı bir elin parmaklarını pek geçmez.
+
+4
+00:00:12,365 --> 00:00:18,017
+Ve şimdi bu ülkeler yeni bir yarışın
+içinde: Görünmez uçaklar, yapay zekâ ile
+
+5
+00:00:18,017 --> 00:00:21,930
+uçan yardımcılar ve belki de
+pilotu olmayan savaş uçakları.
+
+6
+00:00:22,730 --> 00:00:27,078
+Bu yarışa son yıllarda katılan
+bir ülke daha var: Türkiye.
+
+7
+00:00:27,078 --> 00:00:29,252
+Ve onun cevabının adı KAAN.
+
+8
+00:00:30,052 --> 00:00:31,252
+Ben Mazgal.
+
+9
+00:00:31,252 --> 00:00:32,452
+Başlıyoruz.
+
+10
+00:00:36,252 --> 00:00:37,991
+Savaş uçakları "nesillere" ayrılır.
+
+11
+00:00:37,991 --> 00:00:42,774
+Her nesil, bir öncekini işe yaramaz
+hale getirecek bir sıçrama demektir.
+
+12
+00:00:43,574 --> 00:00:44,878
+İlk jetler 2.
+
+13
+00:00:44,878 --> 00:00:47,052
+Dünya Savaşı sonunda ortaya çıktı.
+
+14
+00:00:47,052 --> 00:00:51,835
+Sonra sesten hızlı uçan uçaklar,
+sonra radarlı ve füzeli uçaklar geldi.
+
+15
+00:00:52,635 --> 00:00:53,835
+4.
+
+16
+00:00:53,835 --> 00:00:56,878
+nesil, bugün hâlâ birçok
+hava kuvvetinin belkemiği.
+
+17
+00:00:56,878 --> 00:00:59,052
+Türkiye'nin F-16'ları da bu nesilden.
+
+18
+00:00:59,852 --> 00:01:01,591
+Ama asıl kırılma 5.
+
+19
+00:01:01,591 --> 00:01:02,896
+nesil ile geldi.
+
+20
+00:01:02,896 --> 00:01:04,096
+5.
+
+21
+00:01:04,096 --> 00:01:06,704
+nesil uçağın üç temel özelliği var:
+
+22
+00:01:07,504 --> 00:01:08,809
+Birincisi: Düşük görünürlük.
+
+23
+00:01:08,809 --> 00:01:13,157
+Uçağın şekli ve kaplaması, radar
+dalgalarını geri yansıtmak yerine dağıtacak
+
+24
+00:01:13,157 --> 00:01:14,357
+şekilde tasarlanıyor.
+
+25
+00:01:14,357 --> 00:01:17,400
+Bu yüzden silahlar bile
+gövdenin içinde taşınıyor.
+
+26
+00:01:18,200 --> 00:01:19,504
+İkincisi: Sensör füzyonu.
+
+27
+00:01:19,504 --> 00:01:23,417
+Radar, kızılötesi kameralar ve elektronik
+sensörlerden gelen bilgiler birleşiyor
+
+28
+00:01:23,417 --> 00:01:27,765
+ve pilota tek ve net bir
+savaş alanı resmi sunuluyor.
+
+29
+00:01:28,565 --> 00:01:29,765
+Üçüncüsü: Ağ.
+
+30
+00:01:29,765 --> 00:01:33,678
+Uçak, havadaki ve yerdeki diğer
+unsurlarla sürekli veri paylaşıyor.
+
+31
+00:01:34,478 --> 00:01:35,678
+Bugün 5.
+
+32
+00:01:35,678 --> 00:01:40,461
+nesil uçağı hizmette olan ülkeler
+sınırlı: ABD'nin F-22 ve F-35'i, Çin'in
+
+33
+00:01:40,461 --> 00:01:42,200
+J-20'si ve Rusya'nın Su-57'si.
+
+34
+00:01:46,000 --> 00:01:49,478
+Türkiye, F-35 programına en
+başından ortak olarak katılmıştı.
+
+35
+00:01:49,478 --> 00:01:53,391
+Türk şirketleri uçağın gövde parçalarından
+iniş takımlarına kadar yüzlerce
+
+36
+00:01:53,391 --> 00:01:54,591
+parçasını üretiyordu.
+
+37
+00:01:55,391 --> 00:01:58,000
+Türkiye'nin 100'den fazla
+F-35 alması planlanıyordu.
+
+38
+00:01:58,000 --> 00:02:02,348
+Hatta ilk uçaklar teslim alınmış, Türk
+pilotlar ABD'de eğitime başlamıştı.
+
+39
+00:02:03,148 --> 00:02:07,930
+Ama 2019'da Türkiye'nin Rusya'dan S-400
+hava savunma sistemi alması üzerine ABD,
+
+40
+00:02:07,930 --> 00:02:09,235
+Türkiye'yi programdan çıkardı.
+
+41
+00:02:10,035 --> 00:02:13,513
+Ardından 2020'de Türkiye'nin savunma
+sanayii kurumuna yaptırımlar geldi.
+
+42
+00:02:14,313 --> 00:02:18,226
+Bu, Türk Hava Kuvvetleri için
+ciddi bir boşluk demekti.
+
+43
+00:02:18,226 --> 00:02:21,704
+F-16'lar yaşlanıyordu ve yeni
+nesil bir uçak gerekiyordu.
+
+44
+00:02:22,504 --> 00:02:26,852
+Ama aslında Türkiye bu boşluğu dolduracak
+projeye yıllar önce başlamıştı.
+
+45
+00:02:30,652 --> 00:02:31,852
+5.
+
+46
+00:02:31,852 --> 00:02:35,330
+nesil daha yeni yaygınlaşırken
+büyük güçler şimdiden 6.
+
+47
+00:02:35,330 --> 00:02:36,635
+nesil için yarışıyor.
+
+48
+00:02:37,435 --> 00:02:42,217
+ABD, 2025 yılında yeni nesil hava
+hâkimiyeti uçağının adını açıkladı: F-47.
+
+49
+00:02:43,017 --> 00:02:48,235
+İngiltere, İtalya ve Japonya, GCAP adlı
+ortak bir programla 2035 civarında yeni
+
+50
+00:02:48,235 --> 00:02:49,539
+bir uçak hedefliyor.
+
+51
+00:02:50,339 --> 00:02:54,687
+Fransa, Almanya ve İspanya ise FCAS
+programında; ama ortaklar arasındaki
+
+52
+00:02:54,687 --> 00:02:55,991
+anlaşmazlıklar projeyi zorluyor.
+
+53
+00:02:56,791 --> 00:03:01,139
+Çin ise Aralık 2024'te internete düşen
+görüntülerle herkesi şaşırttı: Kuyruksuz,
+
+54
+00:03:01,139 --> 00:03:03,748
+devasa yeni bir savaş uçağı prototipi.
+
+55
+00:03:04,548 --> 00:03:05,748
+Peki 6.
+
+56
+00:03:05,748 --> 00:03:07,487
+nesli farklı kılan ne?
+
+57
+00:03:08,287 --> 00:03:11,330
+Bu uçaklar tek başına
+uçmak için tasarlanmıyor.
+
+58
+00:03:11,330 --> 00:03:15,243
+Etraflarında, onlara eşlik eden
+insansız "sadık kanat" uçaklar olacak.
+
+59
+00:03:16,043 --> 00:03:19,087
+Pilotlu uçak bir komuta
+merkezi gibi çalışacak.
+
+60
+00:03:19,087 --> 00:03:23,000
+Riskli görevleri ise yapay zekâ
+destekli insansız uçaklar üstlenecek.
+
+61
+00:03:23,800 --> 00:03:28,148
+Hatırlarsanız, bir önceki dron belgeselinde
+konuştuğumuz Kızılelma tam olarak bu
+
+62
+00:03:28,148 --> 00:03:29,452
+fikrin bir parçası.
+
+63
+00:03:33,252 --> 00:03:37,600
+Türkiye'nin milli savaş uçağı projesi
+ilk başta "TF-X" adıyla anılıyordu.
+
+64
+00:03:38,400 --> 00:03:42,748
+Proje, Türk Havacılık ve Uzay Sanayii,
+yani TUSAŞ tarafından yürütülüyor.
+
+65
+00:03:42,748 --> 00:03:47,530
+Tasarım aşamasında İngiliz BAE Systems
+ile bir iş birliği anlaşması da
+
+66
+00:03:47,530 --> 00:03:48,730
+imzalandı.
+
+67
+00:03:49,530 --> 00:03:53,009
+2023'te uçak hangardan çıkarıldı
+ve adı açıklandı: KAAN.
+
+68
+00:03:53,809 --> 00:03:55,113
+21 Şubat 2024.
+
+69
+00:03:55,113 --> 00:03:56,852
+KAAN ilk kez havalanıyor.
+
+70
+00:03:57,652 --> 00:04:00,261
+İlk uçuş yaklaşık 13 dakika sürüyor.
+
+71
+00:04:00,261 --> 00:04:05,043
+Uçak belirli bir irtifa ve hızda temel
+kontrolleri tamamlayıp güvenle iniyor.
+
+72
+00:04:05,843 --> 00:04:09,322
+Bu, bir savaş uçağı için tarihi bir gün.
+
+73
+00:04:09,322 --> 00:04:13,670
+Türkiye, kendi tasarladığı bir muharip
+uçağı havalandıran az sayıdaki ülkenin
+
+74
+00:04:13,670 --> 00:04:14,870
+arasına giriyor.
+
+75
+00:04:15,670 --> 00:04:20,017
+Bu ilk uçuşu, test programı
+kapsamında yeni uçuşlar takip etti.
+
+76
+00:04:20,817 --> 00:04:22,017
+KAAN, 5.
+
+77
+00:04:22,017 --> 00:04:25,496
+nesil özellikler hedefleyen
+çift motorlu bir savaş uçağı.
+
+78
+00:04:26,296 --> 00:04:30,209
+Radar izini azaltmak için silahlarını
+gövdenin içinde taşıyacak şekilde
+
+79
+00:04:30,209 --> 00:04:31,409
+tasarlandı.
+
+80
+00:04:32,209 --> 00:04:36,557
+Yerli AESA radar, elektronik harp sistemleri
+ve görev bilgisayarlarının ASELSAN
+
+81
+00:04:36,557 --> 00:04:39,165
+gibi Türk şirketleri tarafından
+geliştirilmesi hedefleniyor.
+
+82
+00:04:39,965 --> 00:04:42,139
+Ve KAAN tek başına uçmayacak.
+
+83
+00:04:42,139 --> 00:04:46,052
+Planlara göre Kızılelma ve Anka-3
+gibi insansız uçaklarla birlikte,
+
+84
+00:04:46,052 --> 00:04:48,226
+insanlı-insansız ekip
+olarak görev yapacak.
+
+85
+00:04:49,026 --> 00:04:51,200
+Bir savaş uçağının kalbi motorudur.
+
+86
+00:04:51,200 --> 00:04:55,983
+Ve dünyada savaş uçağı motoru yapabilen
+ülke sayısı, uçak yapabilenlerden bile
+
+87
+00:04:55,983 --> 00:04:57,183
+azdır.
+
+88
+00:04:57,983 --> 00:05:02,765
+KAAN'ın ilk prototipleri ve ilk üretim
+uçakları, ABD yapımı F110 motorlarıyla
+
+89
+00:05:02,765 --> 00:05:03,965
+uçacak.
+
+90
+00:05:04,765 --> 00:05:07,809
+Uzun vadeli hedef ise yerli bir motor.
+
+91
+00:05:07,809 --> 00:05:12,157
+TEI başta olmak üzere Türk şirketleri
+bu motor üzerinde çalışıyor.
+
+92
+00:05:12,957 --> 00:05:16,435
+Bu, projenin en zorlu
+ve en kritik halkası.
+
+93
+00:05:16,435 --> 00:05:21,217
+Çünkü motor başkasına bağlı oldukça,
+uçağın kaderi de bir ölçüde başkasının
+
+94
+00:05:21,217 --> 00:05:22,417
+elinde kalıyor.
+
+95
+00:05:23,217 --> 00:05:28,000
+2025'te KAAN, daha seri üretime geçmeden
+ilk yurt dışı müşterisini buldu:
+
+96
+00:05:28,000 --> 00:05:29,200
+Endonezya.
+
+97
+00:05:30,000 --> 00:05:34,348
+Endonezya ile 48 adet KAAN için
+bir anlaşma imzalandığı açıklandı.
+
+98
+00:05:35,148 --> 00:05:39,496
+Bir uçağın daha geliştirme aşamasındayken
+ihracat anlaşması alması, Türk savunma
+
+99
+00:05:39,496 --> 00:05:42,539
+sanayiinin son yıllarda
+kazandığı güvenin bir göstergesi.
+
+100
+00:05:46,339 --> 00:05:48,078
+Duygusal değil, gerçekçi konuşalım.
+
+101
+00:05:48,878 --> 00:05:50,078
+Güçlü yanlar:
+
+102
+00:05:50,878 --> 00:05:55,226
+Türkiye; insansız uçaklar, füzeler,
+radarlar ve elektronik sistemlerde son 15
+
+103
+00:05:55,226 --> 00:05:57,400
+yılda ciddi bir birikim oluşturdu.
+
+104
+00:05:57,400 --> 00:05:58,704
+KAAN sıfırdan başlamıyor.
+
+105
+00:05:59,504 --> 00:06:03,417
+İnsansız uçaklarda dünyanın önde gelen
+ülkelerinden biri olmak, insanlı-insansız
+
+106
+00:06:03,417 --> 00:06:06,461
+ekip konseptinde Türkiye'ye
+gerçek bir avantaj veriyor.
+
+107
+00:06:07,261 --> 00:06:12,043
+İlk uçuşun yapılmış olması ve ilk ihracat
+anlaşması, projenin kâğıt üzerinde
+
+108
+00:06:12,043 --> 00:06:13,243
+kalmadığını gösteriyor.
+
+109
+00:06:14,043 --> 00:06:15,243
+Zorluklar:
+
+110
+00:06:16,043 --> 00:06:17,243
+Motor.
+
+111
+00:06:17,243 --> 00:06:21,157
+Yerli motor gerçekleşene kadar
+kritik bir dışa bağımlılık var.
+
+112
+00:06:21,957 --> 00:06:23,261
+Zaman ve bütçe.
+
+113
+00:06:23,261 --> 00:06:27,174
+Savaş uçağı programları dünyanın
+her yerinde gecikir ve pahalanır.
+
+114
+00:06:27,174 --> 00:06:28,913
+F-35 bile bundan kaçamadı.
+
+115
+00:06:29,713 --> 00:06:34,930
+Uçan bir prototip ile savaşa hazır
+bir uçak arasındaki mesafe çok büyük.
+
+116
+00:06:34,930 --> 00:06:38,843
+Önümüzde yıllarca sürecek testler,
+yazılım geliştirme ve sertifikasyon var.
+
+117
+00:06:39,643 --> 00:06:43,557
+Bu süreçte Hava Kuvvetleri'nin
+ihtiyacını karşılamak için ara çözümler
+
+118
+00:06:43,557 --> 00:06:44,757
+gerekiyor.
+
+119
+00:06:44,757 --> 00:06:49,104
+Türkiye'nin F-16 modernizasyonu ve
+Eurofighter alımı da bu yüzden gündemde.
+
+120
+00:06:49,904 --> 00:06:51,104
+Benim yorumum:
+
+121
+00:06:51,904 --> 00:06:56,252
+> KAAN, Türkiye'nin şimdiye kadar
+giriştiği en iddialı mühendislik projesi.
+
+122
+00:06:56,252 --> 00:07:01,035
+Başarırsa Türkiye, savaş uçağını kendi
+tasarlayıp üreten çok küçük bir ülkeler
+
+123
+00:07:01,035 --> 00:07:02,235
+kulübüne girecek.
+
+124
+00:07:03,035 --> 00:07:06,513
+> Ama asıl soru "KAAN uçar mı?" değil.
+
+125
+00:07:06,513 --> 00:07:07,713
+Çünkü uçtu.
+
+126
+00:07:07,713 --> 00:07:12,061
+Asıl soru: KAAN'ı yerli motoruyla,
+zamanında ve sayıca yeterli üretebilecek
+
+127
+00:07:12,061 --> 00:07:13,261
+miyiz?
+
+128
+00:07:14,061 --> 00:07:18,843
+> TB2 hikâyesinde gördüğümüz şey,
+inat ve sahada test edilen tecrübeydi.
+
+129
+00:07:18,843 --> 00:07:22,757
+KAAN için de aynı inada
+ve sabra ihtiyaç var.
+
+130
+00:07:22,757 --> 00:07:25,365
+Bu bir sprint değil, bir maraton.
+
+131
+00:07:29,165 --> 00:07:33,513
+Belki de KAAN, pilotlu savaş
+uçaklarının son neslinden biri olacak.
+
+132
+00:07:33,513 --> 00:07:37,426
+Belki de gelecekte gökyüzünde pilotlar,
+etrafındaki insansız uçaklardan oluşan
+
+133
+00:07:37,426 --> 00:07:38,730
+bir filoyu yönetecek.
+
+134
+00:07:39,530 --> 00:07:43,878
+Sence 20 yıl sonra savaş
+uçaklarında hâlâ pilot olacak mı?
+
+135
+00:07:43,878 --> 00:07:45,078
+Yorumlarda tartışalım.
+
+136
+00:07:45,878 --> 00:07:48,922
+Videoyu beğendiysen abone
+ol ve bildirimleri aç.
+
+137
+00:07:49,722 --> 00:07:50,922
+Ben Mazgal.
+
+138
+00:07:50,922 --> 00:07:52,226
+Gökyüzüne iyi bakın.

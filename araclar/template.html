@@ -1,0 +1,117 @@
+<title>Mazgal İçerik Paketi #1</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..900&family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: narrow script column under a "fortress wall" header band; contents list then 5 scripts in reading order */
+:root{
+  --bg:#eef0ec; --surface:#ffffff; --fg:#1d2420; --muted:#5b665f; --line:#d3d8d1;
+  --accent:#b5541c; --accent-soft:#f6e4d8; --steel:#2f3b35; --steel-fg:#e9ede8;
+  --reels:#2d5f8a; --reels-soft:#dde9f4;
+  --f-display:"Archivo","Arial Narrow",Arial,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141917; --surface:#1c2320; --fg:#e4e9e4; --muted:#9aa59e; --line:#2f3a35;
+  --accent:#e98447; --accent-soft:#3a2518; --steel:#0d1110; --steel-fg:#e4e9e4;
+  --reels:#7fb2df; --reels-soft:#1b2b3a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141917; --surface:#1c2320; --fg:#e4e9e4; --muted:#9aa59e; --line:#2f3a35;
+  --accent:#e98447; --accent-soft:#3a2518; --steel:#0d1110; --steel-fg:#e4e9e4;
+  --reels:#7fb2df; --reels-soft:#1b2b3a; color-scheme:dark}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:16px;line-height:1.6}
+.wrap{max-width:46rem;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.hero{background:var(--steel);color:var(--steel-fg);margin-top:calc(-1 * env(safe-area-inset-top,0px));padding-top:calc(env(safe-area-inset-top,0px) + 2.5rem);padding-bottom:2rem;position:relative}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:-14px;height:14px;
+  background:linear-gradient(90deg,var(--steel) 0 62%,transparent 62% 100%);background-size:56px 14px}
+.brand{font-family:var(--f-display);font-weight:900;font-stretch:75%;text-transform:uppercase;letter-spacing:.02em;font-size:clamp(3rem,13vw,5.5rem);line-height:.9;margin:0}
+.brand span{color:var(--accent)}
+.sub{font-family:var(--f-mono);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;opacity:.8;margin:.75rem 0 0}
+.lede{max-width:36rem;margin:1rem 0 0;opacity:.92}
+main{padding-block:2.5rem 4rem}
+h2,h3,h4{font-family:var(--f-display);font-stretch:85%;text-wrap:balance;line-height:1.15}
+.label{font-family:var(--f-mono);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 .75rem}
+.nav{display:grid;gap:.5rem;margin-bottom:2rem}
+.nav-i{display:grid;grid-template-columns:5.5rem 1fr auto;gap:.75rem;align-items:center;padding:.8rem 1rem;background:var(--surface);border:1px solid var(--line);border-radius:6px;color:inherit;text-decoration:none}
+.nav-i:hover,.nav-i:focus-visible{border-color:var(--accent)}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.nt{font-weight:600;min-width:0}
+.dur{font-family:var(--f-mono);font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.kind{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;padding:.15rem .5rem;border-radius:3px;justify-self:start}
+.k-belgesel{background:var(--accent-soft);color:var(--accent)}
+.k-reels{background:var(--reels-soft);color:var(--reels)}
+.cal{border-top:1px solid var(--line);padding-top:1.5rem;margin-bottom:1rem}
+.cal ol{list-style:none;padding:0;margin:0;display:grid;gap:.4rem}
+.cal li{display:grid;grid-template-columns:4rem 1fr;gap:.75rem}
+.cal b{font-family:var(--f-mono);font-weight:500;color:var(--accent);font-variant-numeric:tabular-nums}
+.note{font-size:.9rem;color:var(--muted);border-left:3px solid var(--accent);padding:.25rem 0 .25rem .9rem;margin:1.5rem 0 0}
+.piece{border-top:3px solid var(--fg);margin-top:3.5rem;padding-top:1.25rem;scroll-margin-top:1rem}
+.ph .meta{display:flex;gap:.75rem;align-items:center}
+.ph h2{font-size:clamp(1.8rem,6vw,2.6rem);font-weight:800;margin:.5rem 0 0}
+.prose h2{font-size:1.35rem;margin:2.25rem 0 .5rem;padding-bottom:.35rem;border-bottom:1px solid var(--line)}
+.prose h3{font-size:1.15rem;margin:2rem 0 .5rem}
+.prose h4{font-size:1rem;margin:1.5rem 0 .4rem;color:var(--muted)}
+.prose p,.prose li{max-width:65ch}
+.prose hr{border:0;border-top:1px dashed var(--line);margin:2rem 0}
+.prose blockquote{margin:.75rem 0;padding:.6rem 1rem;background:var(--surface);border-left:3px solid var(--accent);border-radius:0 4px 4px 0}
+.prose blockquote p{margin:.35rem 0}
+.prose blockquote blockquote{background:var(--accent-soft);border-left-color:var(--fg)}
+.prose code{font-family:var(--f-mono);font-size:.88em}
+.tc{font-family:var(--f-mono);font-weight:500;font-size:.8rem;background:var(--steel);color:var(--steel-fg);padding:.15rem .45rem;border-radius:3px;margin-right:.4rem;vertical-align:.15em;font-variant-numeric:tabular-nums;white-space:nowrap}
+.err{font-family:var(--f-mono);font-size:.82rem;color:var(--accent);font-weight:500}
+.tw{overflow-x:auto;margin:1rem 0;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:.9rem;min-width:34rem}
+th,td{text-align:left;vertical-align:top;padding:.55rem .7rem;border-bottom:1px solid var(--line)}
+th{font-family:var(--f-mono);font-weight:500;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;font-variant-numeric:tabular-nums}
+.top{display:inline-block;margin-top:1.5rem;font-family:var(--f-mono);font-size:.8rem;color:var(--muted)}
+.prod{margin-top:2.5rem;border:1px solid var(--line);border-radius:6px;background:var(--surface);padding:1rem 1rem .5rem}
+.prod details{border-top:1px solid var(--line)}
+.prod summary{cursor:pointer;padding:.75rem 0;font-family:var(--f-display);font-stretch:85%;font-weight:700;font-size:1.05rem;list-style-position:outside}
+.prod summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.prod details[open] summary{color:var(--accent)}
+.prod .prose{padding-bottom:1rem}
+.pw{position:relative;margin:.5rem 0 1rem}
+.pw pre{margin:0;padding:.8rem 1rem;padding-right:5.5rem;background:var(--bg);border:1px solid var(--line);border-radius:4px;white-space:pre-wrap;overflow-wrap:anywhere;font-family:var(--f-mono);font-size:.8rem;line-height:1.5}
+.pw pre.srt{max-height:24rem;overflow:auto}
+.cp{position:absolute;top:.5rem;right:.5rem;font-family:var(--f-mono);font-size:.72rem;padding:.3rem .6rem;border:1px solid var(--line);border-radius:3px;background:var(--surface);color:var(--fg);cursor:pointer}
+.cp:hover,.cp:focus-visible{border-color:var(--accent);color:var(--accent)}
+footer{border-top:1px solid var(--line);padding-block:1.5rem 2.5rem;color:var(--muted);font-size:.85rem}
+@media (max-width:480px){.nav-i{grid-template-columns:1fr auto}.nav-i .kind{grid-column:1/-1}}
+</style>
+
+<div class="hero" id="ust"><div class="wrap">
+  <p class="sub">İçerik paketi #1 · 2 belgesel + 3 reels</p>
+  <h1 class="brand">Maz<span>gal</span></h1>
+  <p class="lede">Çekime hazır senaryolar; her birinin altında seslendirme metni, sahne promptları ve altyazı dosyası.</p>
+</div></div>
+
+<main class="wrap">
+  <p class="label">İçerikler</p>
+  <nav class="nav">%%NAV%%</nav>
+
+  <div class="cal">
+    <p class="label">Önerilen yayın takvimi</p>
+    <ol>
+      <li><b>1. gün</b><span>Reels: Fotoğrafla yakalanan hacker (merak uyandırır)</span></li>
+      <li><b>2. gün</b><span>Belgesel: Dünyanın En Kötü Hackerleri</span></li>
+      <li><b>4. gün</b><span>Reels: Fotoğrafların konumunu ele veriyor (kaydedilir, belgesele trafik çeker)</span></li>
+      <li><b>6. gün</b><span>Reels: Gemiden kalkan SİHA, TB3 (ikinci belgesel için ısınma)</span></li>
+      <li><b>7. gün</b><span>Belgesel: Katil Dronlar, Avcı Dronlar ve Türkiye</span></li>
+    </ol>
+    <p class="note">Tarih, rakam ve isimler yayından önce her senaryonun sonundaki kaynaklardan kontrol edilmeli. Savunma sanayii verileri hızla güncelleniyor.</p>
+  </div>
+
+  %%SECS%%
+</main>
+<footer class="wrap">Mazgal · İçerik Paketi #1</footer>
+<script>
+document.addEventListener('click',function(e){var b=e.target.closest('.cp');if(!b)return;var pre=b.parentElement.querySelector('pre');var t=pre.innerText;
+function ok(){b.textContent='Kopyalandı';setTimeout(function(){b.textContent='Kopyala'},1500)}
+function sel(){var r=document.createRange();r.selectNodeContents(pre);var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='Seçildi, Ctrl+C'}
+try{navigator.clipboard.writeText(t).then(ok,sel)}catch(_){sel()}});
+</script>

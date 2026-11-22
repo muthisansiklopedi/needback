@@ -1,5 +1,7 @@
 # Mazgal — İçerik Paketi #1
 
+> Diğer paketler: [Paket #2 — Siber saldırılar & KAAN](paket-02/README.md)
+
 Bu klasör, Mazgal YouTube kanalı için hazırlanmış 5 içeriği barındırır: **2 belgesel + 3 reels.**
 
 ## Belgeseller (uzun video)

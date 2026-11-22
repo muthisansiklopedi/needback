@@ -1,0 +1,50 @@
+1
+00:00:00,000 --> 00:00:02,950
+Bu küçük USB bellek, bir
+nükleer tesisi durdurdu.
+
+2
+00:00:03,000 --> 00:00:08,677
+İran'ın Natanz'daki uranyum
+tesisi internete bağlı değildi.
+
+3
+00:00:08,727 --> 00:00:11,950
+Yani hacklenmesi imkânsız sanılıyordu.
+
+4
+00:00:12,000 --> 00:00:16,117
+Ama içeri bir virüs girdi.
+
+5
+00:00:16,167 --> 00:00:20,283
+Büyük ihtimalle bir USB bellekle.
+
+6
+00:00:20,333 --> 00:00:21,950
+Adı: Stuxnet.
+
+7
+00:00:22,000 --> 00:00:26,565
+Virüs santrifüjlerin
+hızıyla gizlice oynadı.
+
+8
+00:00:26,615 --> 00:00:33,950
+Bu sırada kontrol ekranlarında
+her şey normal görünüyordu.
+
+9
+00:00:34,000 --> 00:00:37,506
+Raporlara göre yaklaşık bin
+santrifüj devre dışı kaldı.
+
+10
+00:00:37,556 --> 00:00:41,950
+Tarihte ilk kez bir kod,
+fiziksel dünyada bir şeyi kırdı.
+
+11
+00:00:42,000 --> 00:00:49,950
+Dünyayı durduran diğer saldırılar
+tam belgeselde, kanalda.
