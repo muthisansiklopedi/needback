@@ -2,7 +2,7 @@
 
 **Kanal:** Mazgal
 **Tür:** Uzun video / belgesel
-**Hedef süre:** 16–18 dakika
+**Hedef süre:** 10–12 dakika (anlatım ≈ 10:48; geçiş ve müzik araları dahil)
 **Ton:** Ciddi, sinematik. İlk yarı küresel savaş teknolojisi; son üçte bir Türkiye ve Baykar odaklı, gururlu ama gerçekçi bir yorumla.
 
 ---
@@ -22,7 +22,7 @@
 
 ## SENARYO
 
-### 0:00 – 1:00 | AÇILIŞ (HOOK)
+### 0:00 – 0:35 | AÇILIŞ (HOOK)
 **Görsel:** Sessizlik. Uzaktan gelen vızıltı sesi yavaşça yükseliyor. Termal kamera görüntüsü. Ekran beyaza kesiliyor.
 
 **Anlatıcı:**
@@ -36,7 +36,7 @@
 
 ---
 
-### 1:00 – 3:00 | BÖLÜM 1: Dron Nedir, Nasıl Bu Noktaya Geldik?
+### 0:35 – 1:21 | BÖLÜM 1: Dron Nedir, Nasıl Bu Noktaya Geldik?
 **Görsel:** Arşiv görüntüleri: hedef uçaklar, ABD Predator, Reaper.
 
 **Anlatıcı:**
@@ -50,7 +50,7 @@
 
 ---
 
-### 3:00 – 6:30 | BÖLÜM 2: KATİL DRONLAR
+### 1:21 – 3:40 | BÖLÜM 2: KATİL DRONLAR
 **Görsel:** Kamikaze dron animasyonları, haritalar, savaş bölgesinden (sansürlü, kan içermeyen) görüntüler.
 
 #### 2a. Kamikaze (Dolanan) Mühimmatlar
@@ -87,7 +87,7 @@
 
 ---
 
-### 6:30 – 9:30 | BÖLÜM 3: AVCI DRONLAR
+### 3:40 – 4:54 | BÖLÜM 3: AVCI DRONLAR
 **Görsel:** Önleyici dron fırlatma, radar ekranları, lazer sistemi animasyonu.
 
 **Anlatıcı:**
@@ -112,7 +112,7 @@
 
 ---
 
-### 9:30 – 15:30 | BÖLÜM 4: TÜRKİYE'NİN DRON DEVRİMİ
+### 4:54 – 8:30 | BÖLÜM 4: TÜRKİYE'NİN DRON DEVRİMİ
 **Görsel:** Müzik değişir — daha epik. Türk bayrağı, Baykar tesisleri, TB2 kalkış görüntüleri (Baykar'ın resmi/basın görüntüleri).
 
 #### 4a. Başlangıç: Ambargo ve Bir Aile Atölyesi
@@ -170,7 +170,7 @@
 
 ---
 
-### 15:30 – 17:30 | BÖLÜM 5: MAZGAL YORUMU — Türkiye Gerçekten Ne Kadar İleride?
+### 8:30 – 10:25 | BÖLÜM 5: MAZGAL YORUMU — Türkiye Gerçekten Ne Kadar İleride?
 **Görsel:** Sakin müzik. Anlatıcı kamerada veya sade grafiklerle.
 
 **Anlatıcı:**
@@ -194,7 +194,7 @@
 
 ---
 
-### 17:30 – 18:00 | KAPANIŞ
+### 10:25 – 10:48 | KAPANIŞ
 **Anlatıcı:**
 > Gökyüzündeki savaş yeni başlıyor. Katil dronlar daha ucuz, avcı dronlar daha akıllı oluyor.
 > Peki sence 10 yıl sonra savaş uçaklarında pilot kalacak mı? Yorumlarda tartışalım.
@@ -218,12 +218,12 @@
 > Bu belgeselde Shahed'den FPV dronlara, önleyici dronlardan lazer silahlarına kadar dron savaşlarını ve Türkiye'nin Bayraktar TB2, Akıncı, TB3 ve KIZILELMA ile bu yarışta nasıl dünyanın en önüne çıktığını anlatıyoruz.
 >
 > 00:00 Giriş
-> 01:00 Dronların kısa tarihi
-> 03:00 Katil dronlar
-> 06:30 Avcı dronlar
-> 09:30 Türkiye'nin dron devrimi
-> 15:30 Mazgal yorumu: Türkiye ne kadar ileride?
-> 17:30 Kapanış
+> 00:35 Dronların kısa tarihi
+> 01:21 Katil dronlar
+> 03:40 Avcı dronlar
+> 04:54 Türkiye'nin dron devrimi
+> 08:30 Mazgal yorumu: Türkiye ne kadar ileride?
+> 10:25 Kapanış
 
 ## Etiketler
 drone, dron, katil dron, kamikaze dron, avcı dron, fpv dron, shahed, bayraktar tb2, akıncı, kızılelma, tb3, tcg anadolu, baykar, selçuk bayraktar, türk savunma sanayii, siha, mazgal, belgesel

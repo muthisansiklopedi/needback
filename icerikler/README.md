@@ -5,8 +5,8 @@ Bu klasör, Mazgal YouTube kanalı için hazırlanmış 5 içeriği barındırı
 ## Belgeseller (uzun video)
 | # | Başlık | Süre | Dosya |
 |---|---|---|---|
-| 1 | Dünyanın En Kötü Hackerleri | 13–15 dk | [belgeseller/01-dunyanin-en-kotu-hackerleri.md](belgeseller/01-dunyanin-en-kotu-hackerleri.md) |
-| 2 | Katil Dronlar, Avcı Dronlar ve Türkiye'nin Yükselişi | 16–18 dk | [belgeseller/02-katil-drone-avci-drone-turkiye.md](belgeseller/02-katil-drone-avci-drone-turkiye.md) |
+| 1 | Dünyanın En Kötü Hackerleri | 7–9 dk | [belgeseller/01-dunyanin-en-kotu-hackerleri.md](belgeseller/01-dunyanin-en-kotu-hackerleri.md) |
+| 2 | Katil Dronlar, Avcı Dronlar ve Türkiye'nin Yükselişi | 10–12 dk | [belgeseller/02-katil-drone-avci-drone-turkiye.md](belgeseller/02-katil-drone-avci-drone-turkiye.md) |
 
 ## Reels / Shorts
 | # | Konu | Süre | Bağlandığı belgesel | Dosya |
@@ -32,3 +32,19 @@ Bu klasör, Mazgal YouTube kanalı için hazırlanmış 5 içeriği barındırı
 - Kaynak listesi
 
 > ⚠️ Tarih, rakam ve isimler yayından önce dosyalardaki kaynaklardan son kez kontrol edilmelidir — özellikle savunma sanayii verileri hızla güncelleniyor.
+
+## Prodüksiyon Dosyaları (`uretim/`)
+Her içerik için ayrı klasör:
+
+| Klasör | İçerik |
+|---|---|
+| `uretim/01-hackerler/` | Belgesel 1 |
+| `uretim/02-dronlar/` | Belgesel 2 |
+| `uretim/03-reels-hacker/` | Reels 1 |
+| `uretim/04-reels-tb3/` | Reels 2 |
+| `uretim/05-reels-exif/` | Reels 3 |
+
+Her klasörde:
+- **`seslendirme.md`**: Yalnızca anlatıcının okuyacağı metin, bölüm zaman kodlarıyla. Kendi sesinizle ya da yapay zekâ seslendirme aracına yapıştırarak kullanın.
+- **`sahne-promptlari.md`**: Her sahne için görsel üretim promptu (İngilizce), Mazgal renk temasıyla (koyu arduvaz yeşili + yanık turuncu).
+- **`altyazi.srt`**: Türkçe altyazı. Zamanlar dakikada ~138 kelimelik okuma hızına göre **tahminidir**; seslendirmeyi kaydettikten sonra kurgu programında (CapCut / DaVinci / Premiere) ses ile hizalayın.

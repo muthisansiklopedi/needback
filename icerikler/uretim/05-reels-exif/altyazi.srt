@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:02,950
+Çektiğin her fotoğraf, nerede
+olduğunu kaydediyor olabilir.
+
+2
+00:00:03,000 --> 00:00:04,350
+Buna EXIF verisi deniyor.
+
+3
+00:00:04,400 --> 00:00:07,500
+İçinde tarih, telefon modeli
+ve açıksa GPS konumu var.
+
+4
+00:00:07,550 --> 00:00:09,950
+Bir hacker tam olarak bu yüzden yakalandı.
+
+5
+00:00:10,000 --> 00:00:12,774
+Birçok sosyal medya uygulaması
+yüklerken bu veriyi siliyor.
+
+6
+00:00:12,824 --> 00:00:15,597
+Ama dosya olarak, e-postayla veya
+bazı uygulamalardan gönderdiğinde
+
+7
+00:00:15,647 --> 00:00:15,950
+silinmeyebilir.
+
+8
+00:00:16,000 --> 00:00:23,950
+iPhone: Ayarlar → Gizlilik ve
+Güvenlik → Konum Servisleri → Kamera →
+
+9
+00:00:24,000 --> 00:00:25,283
+Hiçbir Zaman.
+
+10
+00:00:25,333 --> 00:00:29,950
+Paylaşırken de üstteki Seçenekler'e
+basıp Konum'u kapatabilirsin.
+
+11
+00:00:30,000 --> 00:00:37,362
+Android: Kamera uygulaması →
+Ayarlar → Konum etiketleri'ni kapat.
+
+12
+00:00:37,412 --> 00:00:43,950
+Galeri'de paylaşırken 'konum verisini
+kaldır' seçeneği de olabilir.
+
+13
+00:00:44,000 --> 00:00:49,450
+Bu videoyu kaydet, bir arkadaşına gönder.
+
+14
+00:00:49,500 --> 00:00:54,950
+Bu hatayı yapan hackerlerin
+hikâyesi kanalda.

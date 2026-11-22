@@ -2,7 +2,7 @@
 
 **Kanal:** Mazgal
 **Tür:** Uzun video / mini belgesel
-**Hedef süre:** 13–15 dakika
+**Hedef süre:** 7–9 dakika (anlatım ≈ 7:16; geçiş ve müzik araları dahil)
 **Ton:** Gizemli + hafif ironik anlatım. Hackerleri yüceltmiyoruz; "dâhi sanılan ama tek hatayla yakalanan" insanları anlatıyoruz.
 
 ---
@@ -21,7 +21,7 @@
 
 ## SENARYO
 
-### 0:00 – 0:45 | AÇILIŞ (HOOK)
+### 0:00 – 0:33 | AÇILIŞ (HOOK)
 **Görsel:** Siyah ekran. Klavye sesi. Yeşil terminal yazıları akıyor. Ani kesme: polis sireni.
 
 **Anlatıcı:**
@@ -35,7 +35,7 @@
 
 ---
 
-### 0:45 – 2:45 | BÖLÜM 1: Ross Ulbricht — "Kendi Adıyla Mail Atan Karanlık Ağ Kralı"
+### 0:33 – 1:43 | BÖLÜM 1: Ross Ulbricht — "Kendi Adıyla Mail Atan Karanlık Ağ Kralı"
 **Görsel:** Silk Road arayüzünün temsili (bulanık) görüntüsü, Bitcoin grafikleri, San Francisco halk kütüphanesi.
 
 **Anlatıcı:**
@@ -56,7 +56,7 @@
 
 ---
 
-### 2:45 – 4:30 | BÖLÜM 2: Hector Monsegur "Sabu" — "Bir Kez Tor'u Açmayı Unutan Lider"
+### 1:43 – 2:19 | BÖLÜM 2: Hector Monsegur "Sabu" — "Bir Kez Tor'u Açmayı Unutan Lider"
 **Görsel:** LulzSec logosu (gülen adam ve monokl), Anonymous maskeleri, IRC sohbet ekranı.
 
 **Anlatıcı:**
@@ -70,7 +70,7 @@
 
 ---
 
-### 4:30 – 5:50 | BÖLÜM 3: Higinio Ochoa "w0rmer" — "Fotoğraf Hackerı Ele Verdi"
+### 2:19 – 3:04 | BÖLÜM 3: Higinio Ochoa "w0rmer" — "Fotoğraf Hackerı Ele Verdi"
 **Görsel:** Telefon kamerası, harita üzerinde GPS koordinatına zoom, Melbourne (Avustralya).
 
 **Anlatıcı:**
@@ -89,7 +89,7 @@
 
 ---
 
-### 5:50 – 7:40 | BÖLÜM 4: Alexandre Cazes — "AlphaBay ve Utanç Verici E-posta"
+### 3:04 – 3:58 | BÖLÜM 4: Alexandre Cazes — "AlphaBay ve Utanç Verici E-posta"
 **Görsel:** Bangkok sokakları, lüks villa, Lamborghini, karanlık ağ arayüzü (temsili).
 
 **Anlatıcı:**
@@ -106,7 +106,7 @@
 
 ---
 
-### 7:40 – 9:30 | BÖLÜM 5: Ilya Lichtenstein & Heather Morgan — "Razzlekhan"
+### 3:58 – 4:52 | BÖLÜM 5: Ilya Lichtenstein & Heather Morgan — "Razzlekhan"
 **Görsel:** Bitcoin yağmuru, New York dairesi, rap klibi tarzı neon ışıklar (temsili).
 
 **Anlatıcı:**
@@ -126,7 +126,7 @@
 
 ---
 
-### 9:30 – 11:15 | BÖLÜM 6: 2020 Twitter Saldırısı — "17 Yaşında Obama'nın Hesabı"
+### 4:52 – 5:33 | BÖLÜM 6: 2020 Twitter Saldırısı — "17 Yaşında Obama'nın Hesabı"
 **Görsel:** Ünlü hesapların sahte "Bitcoin gönder, iki katını vereyim" tweetlerinin temsili görüntüleri.
 
 **Anlatıcı:**
@@ -141,7 +141,7 @@
 
 ---
 
-### 11:15 – 12:45 | BÖLÜM 7: Arion Kurtaj (Lapsus$) — "Otel Odasından GTA 6 Sızdırmak"
+### 5:33 – 6:22 | BÖLÜM 7: Arion Kurtaj (Lapsus$) — "Otel Odasından GTA 6 Sızdırmak"
 **Görsel:** Otel odası, TV, Amazon Fire TV Stick, oyun görüntüleri (bulanık).
 
 **Anlatıcı:**
@@ -158,7 +158,7 @@
 
 ---
 
-### 12:45 – 14:15 | FİNAL: Ortak Ders
+### 6:22 – 7:16 | FİNAL: Ortak Ders
 **Görsel:** 7 hata etiketinin tek ekranda dizilmesi.
 
 **Anlatıcı:**
@@ -187,14 +187,14 @@
 > Bu videoda Silk Road'dan AlphaBay'e, LulzSec'ten 2020 Twitter saldırısına kadar tarihin en "kötü" hackerlerini anlatıyoruz.
 >
 > 00:00 Giriş
-> 00:45 Ross Ulbricht – Silk Road
-> 02:45 Sabu – LulzSec
-> 04:30 w0rmer – Bir fotoğraf
-> 05:50 Alexandre Cazes – AlphaBay
-> 07:40 Razzlekhan – Bitfinex
-> 09:30 2020 Twitter saldırısı
-> 11:15 Lapsus$ – GTA 6 sızıntısı
-> 12:45 Ortak ders
+> 00:33 Ross Ulbricht – Silk Road
+> 01:43 Sabu – LulzSec
+> 02:19 w0rmer – Bir fotoğraf
+> 03:04 Alexandre Cazes – AlphaBay
+> 03:58 Razzlekhan – Bitfinex
+> 04:52 2020 Twitter saldırısı
+> 05:33 Lapsus$ – GTA 6 sızıntısı
+> 06:22 Ortak ders
 >
 > ⚠️ Bu video eğitim amaçlıdır, siber suçu özendirmez.
 
