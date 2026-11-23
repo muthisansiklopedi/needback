@@ -1,0 +1,544 @@
+1
+00:00:06,800 --> 00:00:11,641
+Eskiden savaşlar tanklarla, uçaklarla, binlerce askerle kazanılırdı.
+
+2
+00:00:12,691 --> 00:00:15,199
+Bugün ise savaşın en korkulan silahı…
+
+3
+00:00:15,549 --> 00:00:20,716
+birkaç yüz dolara mal olabilen, plastik gövdeli, vızıldayan küçük bir makine.
+
+4
+00:00:21,766 --> 00:00:25,922
+Gökyüzünde artık iki tür dron var: Avlananlar ve avlayanlar.
+
+5
+00:00:26,972 --> 00:00:37,525
+Bu videoda katil dronları, onları avlamak için üretilen avcı dronları ve bu yarışta kimsenin beklemediği bir ülkenin, Türkiye'nin, nasıl en öne çıktığını anlatacağız.
+
+6
+00:00:38,575 --> 00:00:39,655
+Ben Mazgal.
+
+7
+00:00:40,005 --> 00:00:41,096
+Başlıyoruz.
+
+8
+00:00:44,946 --> 00:00:48,035
+İnsansız hava aracı fikri aslında yeni değil.
+
+9
+00:00:48,385 --> 00:00:49,790
+İlk denemeler 1.
+
+10
+00:00:50,140 --> 00:00:52,554
+Dünya Savaşı yıllarına kadar gidiyor.
+
+11
+00:00:53,604 --> 00:00:56,298
+Ama gerçek dönüm noktası 2000'ler.
+
+12
+00:00:56,648 --> 00:01:04,612
+ABD'nin Predator ve Reaper dronları ilk kez gökyüzünden füze atan, pilotu binlerce kilometre uzakta oturan silahlar oluyor.
+
+13
+00:01:05,662 --> 00:01:09,610
+Bu dronlar pahalı, büyük ve yalnızca birkaç süper gücün elinde.
+
+14
+00:01:10,660 --> 00:01:13,098
+Ta ki 2010'ların sonuna kadar.
+
+15
+00:01:13,448 --> 00:01:16,048
+O tarihten sonra üç şey değişti:
+
+16
+00:01:17,098 --> 00:01:17,691
+1.
+
+17
+00:01:18,041 --> 00:01:21,709
+Kameralar, işlemciler ve piller inanılmaz ucuzladı.
+
+18
+00:01:22,759 --> 00:01:23,142
+2.
+
+19
+00:01:23,492 --> 00:01:26,999
+Hobi amaçlı FPV dronlar milyonlarca üretilir oldu.
+
+20
+00:01:28,049 --> 00:01:28,594
+3.
+
+21
+00:01:28,944 --> 00:01:32,892
+Ve bazı ülkeler, süper güçlerin tekelini kırmayı başardı.
+
+22
+00:01:36,742 --> 00:01:39,737
+Klasik bir dron füze atar ve üsse geri döner.
+
+23
+00:01:40,087 --> 00:01:43,129
+Kamikaze dron ise kendisi füzedir.
+
+24
+00:01:44,179 --> 00:01:49,717
+Hedef bölgesinde dakikalarca, hatta saatlerce dolaşır, hedefi bulur ve üzerine dalar.
+
+25
+00:01:50,067 --> 00:01:53,306
+Bunlara "dolanan mühimmat" (loitering munition) deniyor.
+
+26
+00:01:54,356 --> 00:01:55,343
+Örnekler:
+
+27
+00:01:56,393 --> 00:02:01,559
+ABD'nin Switchblade'i: Sırt çantasına sığan, tüple fırlatılan kamikaze dron.
+
+28
+00:02:02,609 --> 00:02:08,020
+Rusya'nın Lancet'i: Ukrayna'da topçu ve zırhlı araçlara karşı yoğun şekilde kullanıldı.
+
+29
+00:02:09,070 --> 00:02:14,329
+İran yapımı Shahed-136: Ucuz, gürültülü, "uçan motosiklet" lakaplı.
+
+30
+00:02:14,679 --> 00:02:19,346
+Rusya bunu "Geran-2" adıyla binlercesini Ukrayna şehirlerine gönderdi.
+
+31
+00:02:20,396 --> 00:02:23,717
+Shahed'in korkutucu yanı teknolojisi değil, ucuzluğu.
+
+32
+00:02:24,067 --> 00:02:30,278
+Onu düşürmek için kullanılan bir hava savunma füzesi, dronun kendisinden çoğu zaman kat kat pahalıdır.
+
+33
+00:02:31,328 --> 00:02:37,667
+Ukrayna savaşında yeni bir silah doğdu: Yarış dronlarından dönüştürülmüş FPV kamikaze dronlar.
+
+34
+00:02:38,717 --> 00:02:44,336
+Operatör özel bir gözlük takıyor ve dronun gözünden bakarak onu doğrudan hedefe uçuruyor.
+
+35
+00:02:45,386 --> 00:02:47,081
+Fiyatı birkaç yüz dolar.
+
+36
+00:02:47,431 --> 00:02:50,949
+Vurabildiği hedef ise milyonlarca dolarlık bir tank.
+
+37
+00:02:51,999 --> 00:02:56,051
+Bugün iki taraf da ayda yüz binlerce dron ürettiğini açıklıyor.
+
+38
+00:02:56,401 --> 00:03:01,927
+Savaş alanında "gökyüzünden izlenmeden hareket etmek" neredeyse imkânsız hale geldi.
+
+39
+00:03:02,977 --> 00:03:05,195
+1 Haziran 2025.
+
+40
+00:03:05,545 --> 00:03:09,539
+Ukrayna, "Örümcek Ağı" adını verdiği bir operasyon düzenliyor.
+
+41
+00:03:10,589 --> 00:03:16,498
+Rusya'nın içine kamyonlarla, ahşap konteynerlerin içine gizlenmiş FPV dronlar sokuluyor.
+
+42
+00:03:17,548 --> 00:03:26,825
+Belirlenen anda kamyonların tavanları açılıyor ve dronlar binlerce kilometre içerideki hava üslerinde duran stratejik bombardıman uçaklarına saldırıyor.
+
+43
+00:03:27,875 --> 00:03:32,983
+Ukrayna onlarca uçağı vurduğunu iddia etti; bağımsız tahminler daha düşük.
+
+44
+00:03:33,333 --> 00:03:37,524
+Ama mesaj netti: Artık hiçbir yer cephe hattından uzak değil.
+
+45
+00:03:38,574 --> 00:03:43,671
+Ve en tartışmalı konu: Ya dron, hedefi insan onayı olmadan kendi seçerse?
+
+46
+00:03:44,721 --> 00:03:56,087
+Birleşmiş Milletler'in 2021'de yayımladığı bir Libya raporu, 2020'de bir dolanan mühimmatın hedefe "operatörle bağlantı gerekmeden" saldırmış olabileceğini yazdı.
+
+47
+00:03:56,437 --> 00:04:00,396
+Bu ifade dünya çapında tartışma yarattı ve hâlâ tartışılıyor.
+
+48
+00:04:01,446 --> 00:04:09,619
+Elektronik karıştırma (jamming) arttıkça, dronlara son saniyede kendi başlarına hedefe kilitlenme yeteneği verilmesi yaygınlaşıyor.
+
+49
+00:04:10,669 --> 00:04:14,245
+Soru şu: Ölüm kararını bir algoritmaya bırakmalı mıyız?
+
+50
+00:04:18,095 --> 00:04:20,545
+Her silah, kendi panzehirini doğurur.
+
+51
+00:04:20,895 --> 00:04:25,899
+Ucuz dronlar çoğaldıkça, onları ucuza düşürmenin yolları da aranmaya başlandı.
+
+52
+00:04:26,949 --> 00:04:29,898
+En yeni çözüm: Dronu, dronla avlamak.
+
+53
+00:04:30,948 --> 00:04:35,778
+Ukrayna, Shahed'leri düşürmek için özel hızlı önleyici dronlar geliştirdi.
+
+54
+00:04:36,128 --> 00:04:41,410
+Bu dronlar radarla yönlendiriliyor, Shahed'e yetişip çarpıyor veya yakınında patlıyor.
+
+55
+00:04:42,460 --> 00:04:48,137
+Maliyet karşılaştırması çarpıcı: Milyon dolarlık füze yerine birkaç bin dolarlık bir dron.
+
+56
+00:04:49,187 --> 00:04:56,920
+ABD'de Anduril'in Roadrunner'ı gibi sistemler ise hedef bulamazsa geri dönüp iniş yapabilen, yeniden kullanılabilir önleyiciler.
+
+57
+00:04:57,970 --> 00:05:00,350
+Dronların zayıf noktası iletişimi.
+
+58
+00:05:00,700 --> 00:05:07,968
+Karıştırıcılar (jammer) dronla operatör arasındaki bağlantıyı veya GPS sinyalini keserek dronu kör edebiliyor.
+
+59
+00:05:09,018 --> 00:05:16,680
+Buna karşı geliştirilen cevap ise ilginç: Bazı dronlar artık kilometrelerce uzunluğunda fiber optik kabloyla uçuyor.
+
+60
+00:05:17,030 --> 00:05:18,656
+Kablo karıştırılamıyor.
+
+61
+00:05:19,706 --> 00:05:21,610
+Geleceğin cevabı ise ışık.
+
+62
+00:05:21,960 --> 00:05:24,723
+Lazer silahları dronu ısıtarak düşürüyor.
+
+63
+00:05:25,073 --> 00:05:28,405
+Atış başına maliyet neredeyse sadece elektrik.
+
+64
+00:05:29,455 --> 00:05:36,165
+Türkiye'de de ASELSAN ve ROKETSAN lazer ve elektronik harp tabanlı dron savar sistemleri üzerinde çalışıyor.
+
+65
+00:05:36,515 --> 00:05:37,584
+*(Örn.
+
+66
+00:05:37,934 --> 00:05:43,437
+ALKA yönlendirilmiş enerji sistemi — yayın öncesi güncel durumu kontrol edin.)*
+
+67
+00:05:47,287 --> 00:05:54,287
+2000'lerde Türkiye, terörle mücadelede kullanacağı insansız hava araçlarını yurt dışından almaya çalışıyordu.
+
+68
+00:05:54,637 --> 00:05:59,467
+Teslimatlar gecikiyor, bakım ve kullanım başkalarının iznine bağlı kalıyordu.
+
+69
+00:06:00,517 --> 00:06:09,027
+Tam o yıllarda bir baba ve oğulları, küçük bir aile şirketinde bu işe kafa yoruyordu: Özdemir Bayraktar ve oğlu Selçuk Bayraktar.
+
+70
+00:06:10,077 --> 00:06:17,229
+Selçuk Bayraktar, ABD'de MIT ve Georgia Tech'te eğitim alıp Türkiye'ye dönüyor ve ilk mini İHA'larını geliştiriyor.
+
+71
+00:06:18,279 --> 00:06:21,785
+Bu, bugün dünyanın konuştuğu Baykar'ın başlangıcıydı.
+
+72
+00:06:22,835 --> 00:06:30,370
+2014'te ilk uçuşunu yapan Bayraktar TB2, kısa sürede Türk Silahlı Kuvvetleri'nin envanterine giriyor.
+
+73
+00:06:31,420 --> 00:06:36,401
+2015'te ROKETSAN'ın akıllı mühimmatlarıyla ilk silahlı atışlarını yapıyor.
+
+74
+00:06:37,451 --> 00:06:45,357
+TB2'yi özel yapan şey: Süper güçlerin dronlarına göre çok daha ucuz olması, ama savaş alanında son derece etkili olması.
+
+75
+00:06:46,407 --> 00:06:48,903
+Suriye, Libya, Karabağ ve Ukrayna…
+
+76
+00:06:49,253 --> 00:06:52,249
+Dünya TB2'nin adını bu cephelerde duydu.
+
+77
+00:06:53,299 --> 00:06:57,664
+2022'de Ukrayna'da TB2 adına şarkılar yazıldı.
+
+78
+00:06:58,014 --> 00:07:00,650
+Bir dron, bir ülkenin direniş sembolü oldu.
+
+79
+00:07:01,700 --> 00:07:07,284
+Baykar açıklamalarına göre TB2 bugün 30'dan fazla ülkeye ihraç edilmiş durumda.
+
+80
+00:07:08,334 --> 00:07:11,353
+Sonra daha büyüğü geliyor: Bayraktar AKINCI.
+
+81
+00:07:12,403 --> 00:07:21,667
+2019'da ilk uçuşunu yapan Akıncı; çift motorlu, yüksek irtifada uçabilen, tonlarca faydalı yük taşıyabilen bir taarruzi İHA.
+
+82
+00:07:22,717 --> 00:07:29,463
+Akıncı, yerli füzelerle, akıllı bombalarla ve kendi yapay zekâ destekli sistemleriyle donatılabiliyor.
+
+83
+00:07:29,813 --> 00:07:34,921
+Bu da Türkiye'yi bu sınıfta dron üretebilen çok az sayıdaki ülke arasına sokuyor.
+
+84
+00:07:35,971 --> 00:07:40,348
+Türkiye, TCG Anadolu adlı amfibi hücum gemisini inşa etti.
+
+85
+00:07:40,698 --> 00:07:46,445
+Ama planlanan savaş uçakları gelmeyince akla bir soru geldi: Bu gemiden dron kalkabilir mi?
+
+86
+00:07:47,495 --> 00:07:49,504
+Cevap: Bayraktar TB3.
+
+87
+00:07:49,854 --> 00:07:55,914
+Katlanabilir kanatlı, kısa pistli bir gemiden kalkıp inebilen silahlı insansız hava aracı.
+
+88
+00:07:56,964 --> 00:08:03,651
+2024 sonunda TB3, TCG Anadolu'dan kalkış ve inişlerini başarıyla gerçekleştirdi.
+
+89
+00:08:04,001 --> 00:08:08,158
+Bu, sınıfında dünyada ilk örneklerden biri olarak gösteriliyor.
+
+90
+00:08:09,208 --> 00:08:12,203
+Ve şimdi en büyük adım: Bayraktar KIZILELMA.
+
+91
+00:08:13,253 --> 00:08:16,597
+Kızılelma bir "dron" değil; bir insansız muharip uçak.
+
+92
+00:08:16,947 --> 00:08:24,969
+Jet motorlu, düşük görünürlüklü (radarda zor görünen) tasarımda, havada başka uçaklarla it dalaşı yapmayı hedefleyen bir platform.
+
+93
+00:08:26,019 --> 00:08:29,119
+İlk uçuşunu Aralık 2022'de yaptı.
+
+94
+00:08:29,469 --> 00:08:38,873
+O tarihten bu yana yerli AESA radarıyla, havadan havaya füze testleriyle ve insanlı uçaklarla birlikte formasyon uçuşlarıyla gelişmeye devam ediyor.
+
+95
+00:08:39,923 --> 00:08:47,203
+Hedef: Pilotlu savaş uçaklarının yanında uçan, riskli görevleri üstlenen "sadık kanat" ve bağımsız muharip uçak olmak.
+
+96
+00:08:48,253 --> 00:08:51,620
+Türk dron ekosistemi tek bir şirketten ibaret değil:
+
+97
+00:08:52,670 --> 00:08:57,662
+TUSAŞ ANKA ve AKSUNGUR; ve kanat-gövde tasarımlı jet motorlu ANKA-3.
+
+98
+00:08:58,712 --> 00:09:01,754
+STM KARGU: Türkiye'nin kamikaze dronu.
+
+99
+00:09:02,804 --> 00:09:09,955
+ASELSAN, ROKETSAN, TEI: Kameralardan mühimmatlara, motorlardan radarlara kadar yerlileşen alt sistemler.
+
+100
+00:09:11,005 --> 00:09:16,218
+Bir zamanlar dışarıya bağımlı olan pek çok kritik parça, bugün Türkiye'de üretiliyor.
+
+101
+00:09:17,268 --> 00:09:23,654
+Baykar, son yıllarda Türkiye'nin savunma ve havacılıkta en çok ihracat yapan şirketlerinden biri oldu.
+
+102
+00:09:24,704 --> 00:09:34,154
+2025'te İtalya'nın köklü havacılık şirketi Piaggio Aerospace'i satın aldı ve İtalyan savunma devi Leonardo ile ortak girişim kurdu.
+
+103
+00:09:35,204 --> 00:09:41,752
+Yani bir zamanlar Avrupa'dan teknoloji almaya çalışan Türkiye, bugün Avrupa'da havacılık şirketi sahibi.
+
+104
+00:09:42,802 --> 00:09:50,000
+Ve bu hikâyede hüzünlü bir not: Baykar'ın kurucusu Özdemir Bayraktar, Ekim 2021'de hayatını kaybetti.
+
+105
+00:09:50,350 --> 00:09:54,112
+Ama başlattığı iş bugün dünyanın her yerinde konuşuluyor.
+
+106
+00:09:57,962 --> 00:10:01,120
+Şimdi duygusallıktan uzak, gerçekçi konuşalım.
+
+107
+00:10:02,170 --> 00:10:03,946
+Türkiye'nin güçlü yanları:
+
+108
+00:10:04,996 --> 00:10:12,183
+Silahlı İHA'yı gerçek savaş alanında, farklı coğrafyalarda binlerce saat test etmiş az sayıdaki ülkeden biri.
+
+109
+00:10:12,533 --> 00:10:15,644
+Bu tecrübeyi laboratuvarda satın alamazsınız.
+
+110
+00:10:16,694 --> 00:10:18,598
+Fiyat-performans dengesi.
+
+111
+00:10:18,948 --> 00:10:23,523
+TB2, birçok ülkenin ilk kez silahlı dron sahibi olmasını sağladı.
+
+112
+00:10:24,573 --> 00:10:24,898
+Hız.
+
+113
+00:10:25,248 --> 00:10:31,099
+Fikirden prototipe, prototipten seri üretime geçiş süresi Batılı rakiplere göre çok kısa.
+
+114
+00:10:32,149 --> 00:10:33,159
+Ekosistem.
+
+115
+00:10:33,509 --> 00:10:37,132
+Motor, radar, mühimmat ve yazılımın giderek yerlileşmesi.
+
+116
+00:10:38,182 --> 00:10:40,062
+Hâlâ zorlu olan alanlar:
+
+117
+00:10:41,112 --> 00:10:47,266
+Yüksek performanslı jet motorları gibi bazı kritik bileşenlerde dışa bağımlılık tamamen bitmiş değil.
+
+118
+00:10:48,316 --> 00:10:57,151
+Ucuz kamikaze ve FPV dron sürülerinin çağında, büyük ve pahalı platformların hava savunmasına karşı korunması tüm dünya için yeni bir problem.
+
+119
+00:10:57,501 --> 00:11:04,722
+TB2'nin Ukrayna'daki savaşın ilerleyen dönemlerinde gelişmiş hava savunmasına karşı zorlanması bunun bir örneği.
+
+120
+00:11:05,772 --> 00:11:13,087
+Rekabet hızla büyüyor: ABD, Çin, İsrail ve Avrupa insansız muharip uçak yarışına milyarlarca dolar yatırıyor.
+
+121
+00:11:14,137 --> 00:11:15,123
+Benim yorumum:
+
+122
+00:11:16,173 --> 00:11:21,363
+> Türkiye, insansız hava araçlarında dünyanın en önde gelen birkaç ülkesinden biri.
+
+123
+00:11:21,713 --> 00:11:28,168
+Bu bir abartı değil; ihracat rakamları, sahadaki kullanım ve 30'dan fazla müşteri ülke bunu gösteriyor.
+
+124
+00:11:29,218 --> 00:11:31,018
+> Ama asıl sınav önümüzde.
+
+125
+00:11:31,368 --> 00:11:38,392
+Bir sonraki 10 yıl; Kızılelma gibi insansız savaş uçaklarının, yapay zekânın ve dron sürülerinin yılları olacak.
+
+126
+00:11:38,742 --> 00:11:43,003
+Türkiye bu yarışa TB2 döneminde olduğu gibi erken girmiş durumda.
+
+127
+00:11:43,353 --> 00:11:47,904
+Bu avantajı korumanın yolu ise motor, çip ve yazılımda tam bağımsızlık.
+
+128
+00:11:48,954 --> 00:11:54,770
+> Bir zamanlar dron almak için sıra bekleyen bir ülkenin, bugün dünyaya dron sattığını düşünün.
+
+129
+00:11:55,120 --> 00:12:01,216
+Bu, sadece bir mühendislik başarısı değil; inanmanın ve ısrar etmenin hikâyesi.
+
+130
+00:12:05,066 --> 00:12:07,330
+Gökyüzündeki savaş yeni başlıyor.
+
+131
+00:12:07,680 --> 00:12:11,650
+Katil dronlar daha ucuz, avcı dronlar daha akıllı oluyor.
+
+132
+00:12:12,700 --> 00:12:16,555
+Peki sence 10 yıl sonra savaş uçaklarında pilot kalacak mı?
+
+133
+00:12:16,905 --> 00:12:18,507
+Yorumlarda tartışalım.
+
+134
+00:12:19,557 --> 00:12:23,690
+Videoyu beğendiysen abone olmayı ve bildirimleri açmayı unutma.
+
+135
+00:12:24,740 --> 00:12:25,808
+Ben Mazgal.
+
+136
+00:12:26,158 --> 00:12:27,586
+Gökyüzüne iyi bakın.
+

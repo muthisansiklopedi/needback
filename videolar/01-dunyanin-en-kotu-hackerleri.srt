@@ -1,0 +1,432 @@
+1
+00:00:06,800 --> 00:00:08,925
+Filmlerde hackerler hep kazanır.
+
+2
+00:00:09,275 --> 00:00:14,139
+Kapüşonu takar, üç tuşa basar, bankayı boşaltır ve iz bırakmadan kaybolur.
+
+3
+00:00:15,189 --> 00:00:16,652
+Gerçek hayatta ise…
+
+4
+00:00:17,002 --> 00:00:18,488
+durum biraz farklı.
+
+5
+00:00:19,538 --> 00:00:29,662
+Bu videoda; milyar dolarlık karanlık ağ imparatorlukları kuran, dünyanın en ünlü hesaplarını ele geçiren, FBI'ı yıllarca uğraştıran insanları anlatacağız.
+
+6
+00:00:30,712 --> 00:00:36,738
+Ama hepsinin ortak bir noktası var: Hepsi, inanılmaz derecede basit bir hata yüzünden yakalandı.
+
+7
+00:00:37,788 --> 00:00:38,786
+Ben Mazgal.
+
+8
+00:00:39,136 --> 00:00:40,878
+Hazırsan başlıyoruz.
+
+9
+00:00:44,728 --> 00:00:46,005
+2011.
+
+10
+00:00:46,355 --> 00:00:50,511
+İnternetin karanlık köşesinde Silk Road adında bir site açılıyor.
+
+11
+00:00:50,861 --> 00:00:55,935
+Burada uyuşturucudan sahte kimliğe kadar yasa dışı her şey Bitcoin ile satılıyor.
+
+12
+00:00:56,985 --> 00:01:00,607
+Sitenin kurucusu kendine "Dread Pirate Roberts" diyor.
+
+13
+00:01:00,957 --> 00:01:02,687
+Kimse kim olduğunu bilmiyor.
+
+14
+00:01:03,737 --> 00:01:10,796
+Ancak sitenin ilk günlerinde biri, internetteki forumlarda "altoid" kullanıcı adıyla Silk Road'un reklamını yapıyor.
+
+15
+00:01:11,846 --> 00:01:18,579
+Aylar sonra aynı "altoid", başka bir forumda iş ilanı veriyor ve iletişim için bir e-posta adresi bırakıyor:
+
+16
+00:01:19,629 --> 00:01:21,208
+rossulbricht@gmail.com
+
+17
+00:01:22,258 --> 00:01:22,932
+Evet.
+
+18
+00:01:23,282 --> 00:01:24,547
+Ad ve soyadı.
+
+19
+00:01:25,597 --> 00:01:32,424
+ABD Vergi Dairesi'nden (IRS) bir müfettiş, eski forum yazılarını tek tek tarayarak bu bağlantıyı buluyor.
+
+20
+00:01:33,474 --> 00:01:41,438
+Ekim 2013'te Ross Ulbricht, San Francisco'da bir halk kütüphanesinde, dizüstü bilgisayarı açıkken yakalanıyor.
+
+21
+00:01:41,788 --> 00:01:45,631
+Ajanlar dikkatini dağıtıp bilgisayarı kilitlenmeden alıyor.
+
+22
+00:01:46,681 --> 00:01:49,909
+2015'te müebbet hapis cezası alıyor.
+
+23
+00:01:50,259 --> 00:01:55,971
+Ve 2025 yılının Ocak ayında ABD Başkanı Donald Trump tarafından affediliyor.
+
+24
+00:01:57,021 --> 00:01:59,970
+Milyonlarca dolarlık bir sistemi şifreledin…
+
+25
+00:02:00,320 --> 00:02:02,398
+ama Gmail adresini unuttun.
+
+26
+00:02:06,248 --> 00:02:13,295
+2011'de LulzSec isimli grup; Sony, CIA'in web sitesi ve pek çok kuruma saldırarak manşetlere çıkıyor.
+
+27
+00:02:14,345 --> 00:02:17,085
+Grubun en tanınan isimlerinden biri: "Sabu".
+
+28
+00:02:18,135 --> 00:02:22,408
+Sabu, kimliğini gizlemek için bağlantılarını Tor ağı üzerinden yapıyor.
+
+29
+00:02:22,758 --> 00:02:23,733
+Ama bir gün…
+
+30
+00:02:24,083 --> 00:02:25,476
+sadece bir kez…
+
+31
+00:02:25,826 --> 00:02:28,497
+sohbet kanalına Tor açmadan giriyor.
+
+32
+00:02:29,547 --> 00:02:32,263
+Gerçek IP adresi kayıtlara düşüyor.
+
+33
+00:02:32,613 --> 00:02:34,482
+FBI kapıya geliyor.
+
+34
+00:02:35,532 --> 00:02:44,159
+İşin daha ilginç tarafı: Sabu yakalandıktan sonra FBI için muhbir oluyor ve aylarca kendi arkadaşlarının yakalanmasına yardım ediyor.
+
+35
+00:02:48,009 --> 00:02:49,251
+2012.
+
+36
+00:02:49,601 --> 00:02:55,592
+"w0rmer" lakaplı bir hacker, ABD'de polis teşkilatlarına ait sitelere sızıyor ve verileri sızdırıyor.
+
+37
+00:02:56,642 --> 00:03:03,062
+Sızdırdığı sayfaya bir de "imza" ekliyor: Kız arkadaşının, alay eden bir not tuttuğu bir fotoğrafı.
+
+38
+00:03:04,112 --> 00:03:07,282
+Sorun şu: Fotoğraf bir iPhone ile çekilmiş.
+
+39
+00:03:07,632 --> 00:03:11,312
+Ve fotoğrafın içinde, gözle görünmeyen EXIF verisi var.
+
+40
+00:03:12,362 --> 00:03:14,092
+Bu verinin içinde ne mi var?
+
+41
+00:03:14,442 --> 00:03:18,215
+Fotoğrafın çekildiği yerin GPS koordinatları.
+
+42
+00:03:19,265 --> 00:03:22,876
+Koordinatlar Avustralya'nın Melbourne şehrini gösteriyor.
+
+43
+00:03:23,226 --> 00:03:27,974
+FBI, kız arkadaşın sosyal medyasından ABD'deki sevgiliye ulaşıyor.
+
+44
+00:03:29,024 --> 00:03:32,937
+Sonuç: Higinio Ochoa yakalanıyor ve hapis cezası alıyor.
+
+45
+00:03:33,987 --> 00:03:36,599
+Kendini yakalatmanın en romantik yolu.
+
+46
+00:03:40,449 --> 00:03:44,907
+Silk Road kapandıktan sonra karanlık ağın yeni kralı AlphaBay oluyor.
+
+47
+00:03:45,257 --> 00:03:47,986
+Silk Road'dan kat kat büyük bir pazar.
+
+48
+00:03:49,036 --> 00:03:52,321
+Kurucusu: Kanadalı Alexandre Cazes.
+
+49
+00:03:52,671 --> 00:03:56,317
+Tayland'da lüks villalar, spor arabalar içinde bir hayat.
+
+50
+00:03:57,367 --> 00:03:58,713
+Peki nasıl bulundu?
+
+51
+00:03:59,763 --> 00:04:09,260
+Sitenin ilk dönemlerinde, yeni üyelere giden "hoş geldin" ve şifre sıfırlama e-postalarının başlığında Cazes'in kişisel e-posta adresi görünüyor:
+
+52
+00:04:10,310 --> 00:04:12,563
+pimp_alex_91@hotmail.com
+
+53
+00:04:13,613 --> 00:04:18,698
+Bu adres, onun eski bir teknoloji forumu ve LinkedIn hesabıyla eşleşiyor.
+
+54
+00:04:19,748 --> 00:04:25,623
+Temmuz 2017'de Tayland polisi, evinin kapısına kasıtlı olarak bir araba çarptırıyor.
+
+55
+00:04:25,973 --> 00:04:28,805
+Cazes ne olduğunu görmek için dışarı çıkıyor.
+
+56
+00:04:29,155 --> 00:04:34,008
+Bu sırada içerideki dizüstü bilgisayar açık ve şifresiz durumda ele geçiriliyor.
+
+57
+00:04:35,058 --> 00:04:38,994
+Birkaç gün sonra Cazes, gözaltında hayatını kaybediyor.
+
+58
+00:04:42,844 --> 00:04:46,815
+2016'da Bitfinex adlı kripto borsası hackleniyor.
+
+59
+00:04:47,165 --> 00:04:50,207
+Çalınan miktar: yaklaşık 120 bin Bitcoin.
+
+60
+00:04:51,257 --> 00:04:53,788
+Bugünün fiyatlarıyla milyarlarca dolar.
+
+61
+00:04:54,838 --> 00:04:59,215
+Yıllar boyunca bu paralar küçük parçalar halinde aklanmaya çalışılıyor.
+
+62
+00:05:00,265 --> 00:05:06,023
+Ama Bitcoin'in bir özelliği var: Her işlem sonsuza kadar herkese açık bir deftere yazılır.
+
+63
+00:05:07,073 --> 00:05:14,515
+Soruşturmacılar paranın izini adım adım sürüyor ve bir çifte ulaşıyor: Ilya Lichtenstein ve eşi Heather Morgan.
+
+64
+00:05:15,565 --> 00:05:21,951
+Heather Morgan, internette "Razzlekhan" adıyla rap yapıyor ve kendini "Wall Street'in timsahı" olarak tanıtıyor.
+
+65
+00:05:23,001 --> 00:05:31,371
+2022'de ajanlar, Lichtenstein'ın bulut depolama hesabında çalınan cüzdanların anahtarlarını içeren bir dosya buluyor.
+
+66
+00:05:32,421 --> 00:05:37,657
+Bu, ABD tarihinin en büyük mali el koyma operasyonlarından biri oluyor.
+
+67
+00:05:38,707 --> 00:05:41,900
+Milyarlarca doları çal, şifreleri buluta kaydet.
+
+68
+00:05:42,250 --> 00:05:43,446
+Kusursuz plan.
+
+69
+00:05:47,296 --> 00:05:49,397
+15 Temmuz 2020.
+
+70
+00:05:49,747 --> 00:05:53,869
+Barack Obama, Joe Biden, Elon Musk, Bill Gates, Apple…
+
+71
+00:05:54,219 --> 00:05:57,040
+Hepsi aynı anda aynı mesajı paylaşıyor:
+
+72
+00:05:58,090 --> 00:06:01,399
+"Bana Bitcoin gönderin, size iki katını geri göndereyim."
+
+73
+00:06:02,449 --> 00:06:07,128
+Saldırının arkasında Florida'dan 17 yaşındaki Graham Ivan Clark var.
+
+74
+00:06:07,478 --> 00:06:13,155
+Twitter çalışanlarını telefonla kandırarak (sosyal mühendislik) iç yönetim paneline erişiyor.
+
+75
+00:06:14,205 --> 00:06:15,958
+Peki nasıl yakalandılar?
+
+76
+00:06:17,008 --> 00:06:20,840
+Ekipteki bazı isimler, kripto borsalarında hesap açarken…
+
+77
+00:06:21,190 --> 00:06:25,392
+kendi gerçek ehliyetleri ve kimlik bilgileriyle doğrulama yapmışlar.
+
+78
+00:06:26,442 --> 00:06:30,355
+Bazıları da kendi IP adresleriyle Discord'a bağlanmış.
+
+79
+00:06:30,705 --> 00:06:34,118
+Saldırıdan iki hafta sonra tutuklamalar başlıyor.
+
+80
+00:06:37,968 --> 00:06:43,262
+Lapsus$ grubu; Microsoft, Nvidia, Samsung, Uber gibi devlere sızıyor.
+
+81
+00:06:43,612 --> 00:06:48,036
+Liderlerinden biri İngiltere'den genç bir hacker: Arion Kurtaj.
+
+82
+00:06:49,086 --> 00:06:52,441
+İlk hatası, diğer hackerlerle kavga etmesi oluyor.
+
+83
+00:06:52,791 --> 00:06:56,541
+Rakipleri, onun tüm kişisel bilgilerini internete döküyor.
+
+84
+00:06:57,591 --> 00:07:03,315
+Polis onu yakalıyor, şartlı olarak bir otele yerleştiriyor ve dizüstü bilgisayarına el koyuyor.
+
+85
+00:07:04,365 --> 00:07:05,921
+Ama Kurtaj durmuyor.
+
+86
+00:07:06,271 --> 00:07:17,149
+Otel odasındaki televizyona bağlı bir Amazon Fire TV Stick, bir klavye ve otel Wi-Fi'ı ile Rockstar Games'e sızıyor ve henüz çıkmamış GTA 6'nın görüntülerini sızdırıyor.
+
+87
+00:07:18,199 --> 00:07:19,372
+Tabii…
+
+88
+00:07:19,722 --> 00:07:22,055
+polis zaten nerede kaldığını biliyordu.
+
+89
+00:07:23,105 --> 00:07:24,185
+Yetenekli mi?
+
+90
+00:07:24,535 --> 00:07:25,174
+Evet.
+
+91
+00:07:25,524 --> 00:07:26,371
+Akıllı mı?
+
+92
+00:07:26,721 --> 00:07:28,509
+Mahkeme başka düşünüyor.
+
+93
+00:07:32,359 --> 00:07:34,797
+Peki bu hikâyelerden ne öğreniyoruz?
+
+94
+00:07:35,847 --> 00:07:37,995
+Birincisi: İnternet unutmaz.
+
+95
+00:07:38,345 --> 00:07:42,118
+10 yıl önce attığın bir forum mesajı, bugün seni bulabilir.
+
+96
+00:07:43,168 --> 00:07:47,777
+İkincisi: Teknoloji ne kadar güçlü olursa olsun, en zayıf halka insandır.
+
+97
+00:07:48,127 --> 00:07:50,194
+Unutkanlık, kibir, acele…
+
+98
+00:07:51,244 --> 00:07:53,949
+Üçüncüsü: Bu insanlar dâhi değildi.
+
+99
+00:07:54,299 --> 00:07:56,610
+Sadece bir süre şanslıydılar.
+
+100
+00:07:57,660 --> 00:08:00,736
+Ve en önemlisi: Siber suç kahramanlık değil.
+
+101
+00:08:01,086 --> 00:08:05,196
+Bu hikâyelerin çoğu hapishanede, bazıları ise çok daha kötü bitti.
+
+102
+00:08:06,246 --> 00:08:08,951
+Siz de dijital izlerinize dikkat edin.
+
+103
+00:08:09,301 --> 00:08:14,468
+Fotoğraflarınızdaki konum verisinden eski e-posta adreslerinize kadar.
+
+104
+00:08:15,518 --> 00:08:18,780
+Sence bu listedeki en saçma hata hangisiydi?
+
+105
+00:08:19,130 --> 00:08:20,465
+Yorumlara yaz.
+
+106
+00:08:21,515 --> 00:08:27,703
+Bir sonraki videoda gökyüzüne bakıyoruz: Katil dronlar, avcı dronlar ve Türkiye'nin bu yarıştaki yeri.
+
+107
+00:08:28,753 --> 00:08:30,286
+Abone olmayı unutma.
+
+108
+00:08:30,636 --> 00:08:32,412
+Ben Mazgal, görüşürüz.
+
