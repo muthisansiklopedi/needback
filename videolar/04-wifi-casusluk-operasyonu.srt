@@ -1,0 +1,280 @@
+1
+00:00:06,800 --> 00:00:10,376
+Bir şehirde, sıradan görünen bir araç yavaşça ilerliyor.
+
+2
+00:00:10,726 --> 00:00:12,676
+İçinde özel bir cihaz var.
+
+3
+00:00:13,026 --> 00:00:14,977
+Ne bir silah, ne bir bomba.
+
+4
+00:00:15,327 --> 00:00:18,996
+Sadece, etraftaki kablosuz ağları dinleyen bir anten.
+
+5
+00:00:20,046 --> 00:00:24,690
+Ama bu anten, bir ülkenin savunma sanayisi için tehdit hâline gelebilir.
+
+6
+00:00:25,740 --> 00:00:32,926
+Türkiye'de, Milli İstihbarat Teşkilatı koordinasyonunda yürütülen bir operasyon, tam da böyle bir şebekeyi çökertti.
+
+7
+00:00:33,976 --> 00:00:44,402
+Bu videoda, kablosuz ağların nasıl bir istihbarat hedefi hâline geldiğini, bu operasyonda ne olduğunu ve kurumların, bireylerin nasıl korunabileceğini anlatacağız.
+
+8
+00:00:45,452 --> 00:00:46,450
+Ben Mazgal.
+
+9
+00:00:46,800 --> 00:00:47,961
+Başlıyoruz.
+
+10
+00:00:51,811 --> 00:01:02,272
+Basına yansıyan bilgilere göre, savunma sanayii kuruluşları ve kritik kamu kurumlarının kablosuz ağlarını hedef alan bir şebeke çökertildi ve iki şüpheli tutuklandı.
+
+11
+00:01:03,322 --> 00:01:10,125
+Operasyon, Milli İstihbarat Teşkilatı koordinasyonunda, İstanbul Emniyeti ile birlikte gerçekleştirildi.
+
+12
+00:01:11,175 --> 00:01:18,176
+Açıklamalara göre şüpheliler, Ankara ve İstanbul'da özel cihazlar kullanarak kablosuz ağları haritalandırıyordu.
+
+13
+00:01:19,226 --> 00:01:31,974
+Yabancı bir ülkenin istihbarat servisi adına çalıştıkları belirlenen şüphelilerin, talimatları sosyal medyadaki iş ilanları üzerinden aldığı ve kendilerine kripto parayla ödeme yapıldığı ortaya çıktı.
+
+14
+00:01:33,024 --> 00:01:37,668
+Bu birkaç cümlenin her biri, modern casusluğun nasıl değiştiğini anlatıyor.
+
+15
+00:01:38,018 --> 00:01:39,655
+Şimdi tek tek açalım.
+
+16
+00:01:43,505 --> 00:01:49,728
+Önce şunu anlamak lazım: bir kablosuz ağ, siz hiçbir şey yapmasanız bile sürekli kendini duyurur.
+
+17
+00:01:50,778 --> 00:01:55,143
+Her Wi-Fi noktası; adını, kimliğini ve sinyal bilgisini çevreye yayar.
+
+18
+00:01:55,493 --> 00:02:00,277
+Telefonunuz, kullanılabilir ağlar listesini işte bu yayınlar sayesinde görür.
+
+19
+00:02:01,327 --> 00:02:07,944
+Bu yayınları bir cihazla kaydedip bulunduğu konumla eşleştirmeye, güvenlik dünyasında ağ haritalama denir.
+
+20
+00:02:08,994 --> 00:02:14,892
+Sonuçta ortaya bir harita çıkar: hangi bölgede hangi ağlar var, nerede ve ne kadar korumalı.
+
+21
+00:02:15,942 --> 00:02:19,924
+Bunun kendisi tek başına bir saldırı değildir; bir keşiftir.
+
+22
+00:02:20,274 --> 00:02:24,651
+Ama unutmayın, her ciddi saldırının ilk adımı keşiftir.
+
+23
+00:02:25,701 --> 00:02:33,782
+Bir savunma sanayii tesisinin çevresindeki ağların haritası, yabancı bir istihbarat için çok değerli bir başlangıç noktasıdır.
+
+24
+00:02:34,132 --> 00:02:39,693
+Zayıf, eski ya da yanlış yapılandırılmış tek bir ağ, içeri açılan bir kapıya dönüşebilir.
+
+25
+00:02:43,543 --> 00:02:45,517
+Peki neden kablosuz ağlar?
+
+26
+00:02:46,567 --> 00:02:52,232
+Çünkü en kalın duvarlar bile görünmez bir noktada zayıflayabilir: havada taşınan sinyalde.
+
+27
+00:02:53,282 --> 00:02:57,404
+Bir kurum; kapısını, kartlı geçişini, kameralarını güvene alır.
+
+28
+00:02:57,754 --> 00:03:01,817
+Ama otoparkına kadar taşan misafir ağını çoğu zaman unutur.
+
+29
+00:03:02,867 --> 00:03:12,004
+Eski şifreleme kullanan, varsayılan parolası hiç değiştirilmemiş ya da yanlış kurulmuş tek bir erişim noktası, tüm ağa açılan zayıf halka olabilir.
+
+30
+00:03:13,054 --> 00:03:21,100
+Savunma sanayii ve kritik kamu kurumları söz konusu olduğunda, buradan sızacak en küçük bilgi bile bir ulusal güvenlik meselesidir.
+
+31
+00:03:24,950 --> 00:03:29,652
+Şimdi operasyonun en dikkat çekici kısmına gelelim: casusların kendisi.
+
+32
+00:03:30,702 --> 00:03:36,310
+Eskiden casus denince akla, yıllarca sahada yetiştirilmiş eğitimli ajanlar gelirdi.
+
+33
+00:03:37,360 --> 00:03:38,997
+Bugün tablo değişti.
+
+34
+00:03:39,347 --> 00:03:44,989
+Açıklamalara göre bu kişilere talimatlar, sosyal medyadaki iş ilanları üzerinden verildi.
+
+35
+00:03:46,039 --> 00:03:50,648
+Yani birine, şu bölgede şu ölçümü yap, karşılığında ödemeni al deniyor.
+
+36
+00:03:50,998 --> 00:03:54,284
+Çoğu zaman kimin için çalıştığını tam olarak bilmeden.
+
+37
+00:03:55,334 --> 00:03:57,761
+Ödeme ise kripto parayla yapılıyor.
+
+38
+00:03:58,111 --> 00:04:00,026
+Takibi zor, sınır tanımıyor.
+
+39
+00:04:01,076 --> 00:04:02,876
+Buna vekil casusluk denir.
+
+40
+00:04:03,226 --> 00:04:09,426
+İstihbarat servisi kendi ajanını riske atmaz; parayla, uzaktan, sıradan insanları kullanır.
+
+41
+00:04:10,476 --> 00:04:16,327
+Bu yüzden, ben casus değilim, sadece küçük bir iş yaptım savunması artık geçerli değildir.
+
+42
+00:04:16,677 --> 00:04:20,891
+Yabancı bir servis için yapılan böyle bir ölçüm, ağır bir suçtur.
+
+43
+00:04:24,741 --> 00:04:26,320
+Peki korunmak mümkün mü?
+
+44
+00:04:26,670 --> 00:04:27,390
+Evet.
+
+45
+00:04:27,740 --> 00:04:29,551
+İşte temel önlemler.
+
+46
+00:04:30,601 --> 00:04:35,721
+Kurumlar için: misafir ağını iç ağdan tamamen ayırın; ikisi birbirini görmemeli.
+
+47
+00:04:36,771 --> 00:04:41,706
+Güncel şifreleme kullanın ve bütün varsayılan parolaları mutlaka değiştirin.
+
+48
+00:04:42,756 --> 00:04:45,797
+Kullanılmayan, eski erişim noktalarını kapatın.
+
+49
+00:04:46,147 --> 00:04:48,911
+Unutulan cihaz, en tehlikeli cihazdır.
+
+50
+00:04:49,961 --> 00:04:56,183
+Ağ adlarında kurum, departman ya da cihaz bilgisi vermeyin; harita çıkaracak kişiye ipucu sunmayın.
+
+51
+00:04:57,233 --> 00:05:01,866
+Çevrede olağandışı sinyal taramalarını fark edebilecek izleme sistemleri kurun.
+
+52
+00:05:02,916 --> 00:05:09,290
+Bireyler için: ev ve iş yeri ağınızın parolasını güçlü tutun, modeminizin yönetici şifresini değiştirin.
+
+53
+00:05:10,340 --> 00:05:15,065
+Ağınıza tanımadığınız cihazların bağlanıp bağlanmadığını zaman zaman kontrol edin.
+
+54
+00:05:16,115 --> 00:05:22,024
+Ve en önemlisi: internette, kolay para, sadece şu ölçümü yap diyen ilanlara dikkat edin.
+
+55
+00:05:22,374 --> 00:05:26,635
+Farkında olmadan bir casusluk şebekesinin parçası olabilirsiniz.
+
+56
+00:05:30,485 --> 00:05:33,156
+Bu operasyon bize üç şeyi hatırlatıyor.
+
+57
+00:05:34,206 --> 00:05:37,538
+Birincisi: savaş artık yalnızca sınırlarda değil.
+
+58
+00:05:37,888 --> 00:05:40,523
+Otoparkta, kafede, havadaki sinyalde.
+
+59
+00:05:41,573 --> 00:05:45,358
+İkincisi: düşman her zaman yüksek teknoloji kullanmaz.
+
+60
+00:05:45,708 --> 00:05:49,899
+Bazen sıradan bir cihaz ve kandırdığı sıradan bir insan yeter.
+
+61
+00:05:50,949 --> 00:05:53,945
+Üçüncüsü: en güçlü savunma farkındalıktır.
+
+62
+00:05:54,295 --> 00:05:59,716
+Bir kurumu koruyan şey yalnızca pahalı cihazlar değil, tehdidi tanıyan insanlardır.
+
+63
+00:06:00,766 --> 00:06:03,739
+Türkiye'nin istihbaratı bu şebekeyi çökertti.
+
+64
+00:06:04,089 --> 00:06:06,353
+Ama her gün yeni denemeler oluyor.
+
+65
+00:06:07,403 --> 00:06:12,604
+Asıl soru şu: sizin kurumunuzun, sizin ağınızın haritası, birilerinin elinde mi?
+
+66
+00:06:16,454 --> 00:06:22,491
+Bu tür operasyonları ve siber güvenlik konularını anlattığımız videolar için abone olmayı unutmayın.
+
+67
+00:06:23,541 --> 00:06:27,268
+Sence bu casusluk yöntemi karşısında en büyük zafiyet ne?
+
+68
+00:06:27,618 --> 00:06:28,895
+Yorumlara yaz.
+
+69
+00:06:29,945 --> 00:06:31,001
+Ben Mazgal.
+
+70
+00:06:31,351 --> 00:06:33,255
+Kendinizi ve ağınızı koruyun.
+
